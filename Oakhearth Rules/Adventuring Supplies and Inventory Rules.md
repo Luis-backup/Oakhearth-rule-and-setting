@@ -20,5 +20,7 @@ Potions take 1 AP to use. You can feed a potion to another creature for 2 AP, ho
 #### Healer's Kit
 You cannot use a this item while in combat or any time where the characters are in a rush, such as running from a monster. 
 
-The Healer's Kit has 5 charges. You can expend 1 charge at a time
+The Healer's Kit has 5 charges. You can expend 1 charge at a time. When you expend a charge, make a DC10 Medicine check. Success: Target creature regains 1 HP. Success (each 5): The creature regains +1 HP.
+
+You cannot regain more HP than equal to half of your max HP per 24 hour period. 
 
