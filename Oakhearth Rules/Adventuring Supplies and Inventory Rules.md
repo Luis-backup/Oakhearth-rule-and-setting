@@ -11,8 +11,14 @@ It assumed that adventures are competent enough to plan ahead for their travels.
 Each Pack contains specific types of items. Every Pack starts with 5 charges. Whenever a player wants to retrieve an item from a Pack, they expend 1 charge. At that point, the item associated with that charge is defined and known (Schrödinger's cat). If the item is particularly large or expensive, the GM may rule that it costs more than 1 charge to define. To regain spent charges, the player must pay 1/5th of the Pack’s total cost per charge, and must be in a location where such items could reasonably be purchased.
 
 ### Generic Items
-For the purpose of simplicity and time. For the rules and list of miscellaneous items default to the rules and costs of dnd 5e
+For the purpose of simplicity and time. For the rules and list of miscellaneous items default to the rules and costs of Dungeons & Dragons 5e
 
 ### Consumables
+#### Potions
+Potions take 1 AP to use. You can feed a potion to another creature for 2 AP, however you cannot do this if the other creature is within the melee attack range of an enemy creature. 
 
+#### Healer's Kit
+You cannot use a this item while in combat or any time where the characters are in a rush, such as running from a monster. 
+
+The Healer's Kit has 5 charges. You can expend 1 charge at a time
 
