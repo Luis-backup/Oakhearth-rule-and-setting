@@ -1,0 +1,9 @@
+There is much debate on whether or not the Dreaming is a sphere in and if itself or some somehow between different spheres. What is known is that is or at least contains manifestations of dreams, both of sleep and of aspirations. For this reason, it seems to be a place of extremes and does not follow the standard logic of the Prime Sphere. While there is no recorded history of a person being able to physically manifest into the Dreaming, many skilled magician have discovered methods to temporarily project their minds into the Dreaming. There are also many accounts of people accidentally entering the Dreaming, but no reliable method of doing so has been discovered.
+
+## Realms of the Dreaming
+From the stories I have been able to find and discussions with other scholars, it seems that there are three "realms" of the Dreaming: Dark, Light, and Middle. 
+
+The Dark Dreaming as the name implies contains all of the dark aspects of dreams such as nightmares and malicious aspirations. The Light Dreaming contains the happy dreams hopeful aspirations. The Middle Dreaming is interesting because it contains the undeveloped or less tangible dreams. Some scholars believe that the Middle Dreaming was the first realm of dreams, as its lesser defined dreams, they argue, are they purest form of dreams. 
+
+## Gods of the Dreaming
+Stories of those who have experience the Dreaming as well as accounts from beings summoned from the Dreaming seem to agree that there are gods within in the dreaming, or at least in the Dark and Light Dreaming. From the accounts I have been able to find, the Middle Dreaming both does and does not have gods. In all honesty, I find it a bit confusing. My working theory is that any gods that can exist in the Middle Dreaming either change or die so quickly that there are times when there are seemingly no gods there. 
