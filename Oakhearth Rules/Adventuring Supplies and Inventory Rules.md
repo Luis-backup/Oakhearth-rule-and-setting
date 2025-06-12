@@ -10,5 +10,3 @@ It assumed that adventures are competent enough to plan ahead for their travels.
 
 Each Pack contains specific types of items. Every Pack starts with 5 charges. Whenever a player wants to retrieve an item from a Pack, they expend 1 charge. At that point, the item associated with that charge is defined and known (Schrödinger's cat). If the item is particularly large or expensive, the GM may rule that it costs more than 1 charge to define. To regain spent charges, the player must pay 1/5th of the Pack’s total cost per charge, and must be in a location where such items could reasonably be purchased.
 
-
-### Consumables
