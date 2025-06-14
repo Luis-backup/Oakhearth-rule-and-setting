@@ -32,4 +32,11 @@ Your character knows Common and one other language of your choice.
 Some Ancestries or Class grant bonus HP at Level 1.
 
 ## Step 5: Stamina & Mana Points
-Martial Characters start with 1 Stamina Point. Spellcasters start with 6 Mana Points. Half-Casters start with 1 Stamina Point and 3 Mana Points
+Martial Characters start with 1 Stamina Point. Spellcasters start with 6 Mana Points. Half-Casters start with 1 Stamina Point and 3 Mana Points.
+
+## Step 6: Armor Class
+Your Armor Class represents how difficult it is for hit or damage you. 
+
+Armor Class = 8 + Combat Proficiency + Agility + Armor Bonus
+
+
