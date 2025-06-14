@@ -5,5 +5,5 @@ You start with an array of 3.1.0.-2 and assign each value to an Attribute of you
 **Prime Modifier**: Your Prime Modifier is equal to your PC's highest Attribute. 
 
 ## Step 2: Save Masteries
-
+Choose 2 Attributes
 
