@@ -6,10 +6,6 @@ Every creature can only be revived with normal magic a maximum of three times. A
 ## Break the Chains of Fate
 If your character would die, you can choose to *Break the Chains of Fate*. When you do so, your character is given one last burst of energy that reverberates along the strings of fate. 
 
-When your choose to do this
+When you choose to do this, you regain all of your actions points, and any action you take is treated as an automatic success. 
 
-
-Break the Chains of Fate:
-- cannot be revived but gets a last stand
-- regains all action points
-- all actions treated as success
+If you choose to *Break the Chains of Fate*, your character cannot be revived by any known magic or god.
