@@ -27,7 +27,7 @@ When a creature casts a Spell, they make a Spell Check to determine the potency 
 When a creature attempts a test of skill, they perform a Skill Check. Each skill is associated with an Attribute, and Proficiency Points (PP) can be added to the roll if applicable.
 - Skill Check = d20 + Attribute + Proficiency Points
 
-### Physique Check
+### Physical Check
 When a creature attempts an action that could reasonably be accomplished using either Athletics or Acrobatics, they use the skill with the higher bonus.
 
 ### Contested Checks

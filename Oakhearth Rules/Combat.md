@@ -48,7 +48,7 @@ The target gains Advantage for every additional limb they are using to hold the 
 
 
 **Grapple (1 AP)**
-If you have a free hand, you can attempt to Grapple a creature. To do this, make an Athletics check contested by the targeted creature's Physique Check. You have ADV on the check if you are larger than the target and DIS if you are smaller than the target. You cannot Target creatures that are two or more size categories larger or smaller than you. On a success, the target creature has the Grappled condition.
+If you have a free hand, you can attempt to Grapple a creature. To do this, make an Athletics check contested by the targeted creature's Physical Check. You have ADV on the check if you are larger than the target and DIS if you are smaller than the target. You cannot Target creatures that are two or more size categories larger or smaller than you. On a success, the target creature has the Grappled condition.
 
 
 **Shove (1 AP)**
@@ -185,7 +185,7 @@ When a creature is thrown or knocked back and collides with an immovable object 
 If you want to put more force into an Attack Check, you can purposefully fall onto a target as part of your Attack Check. To do this, you first need to move into a position to fall onto the target. Using the Creature Collision rules from above, you would count up the Spaces fallen and this number will represent the falling damage that will be taken. You can now make your Attack Check and resolve the damage based on the result. Then (regardless of if you hit or miss) you would share the damage taken from the fall. You would take half of the damage and the other half would be added to the damage they take as part of the same Attack Check.
 
 ## Throwing Creatures
-You can spend 1 AP to throw a creature that’s Grappled by you that’s the same size as you or smaller. Make an Athletics Check Contested by the target’s Physique Check. *Success*: You throw the creature up to a number of Spaces away from you equal to 1/2 of your Might (ending the Grappled Condition) + up to 1 additional Space for every 5 they fail the Contest by.
+You can spend 1 AP to throw a creature that’s Grappled by you that’s the same size as you or smaller. Make an Athletics Check Contested by the target’s Physical Check. *Success*: You throw the creature up to a number of Spaces away from you equal to 1/2 of your Might (ending the Grappled Condition) + up to 1 additional Space for every 5 they fail the Contest by.
 - Smaller Size: If the creature is a size smaller than you, the distance thrown is equal to your Might (instead of half).
 - Vertical Toss: You can choose throw the creature vertically into the air. When you do, they distance thrown is halved.
 - Team Throw: If another creature has the same target Grappled, that other creature can spend 1 AP as a reaction to throw the target with you. You and the other creature each make an Athletics Check and add your results together to determine the total number of Spaces the target is thrown.

@@ -52,7 +52,7 @@ When you attempt to Grapple a creature, you can spend additional AP to perform a
 
 Grapple Success: The target is Grappled and suffers the damage or effects of your Maneuver.
 
-You can also perform Grapple Maneuvers on creatures you have Grappled. When you perform a Grapple Maneuver against a creature you have Grappled, you make an Athletics Check Contested by the target’s Physique Check.
+You can also perform Grapple Maneuvers on creatures you have Grappled. When you perform a Grapple Maneuver against a creature you have Grappled, you make an Athletics Check Contested by the target’s Physical Check.
 
 Contest Success: The target suffers the damage or effects of your Maneuver.  
 Contest Failure: The target suffers no additional effects but remains Grappled by you.
