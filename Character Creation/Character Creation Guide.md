@@ -39,4 +39,22 @@ Your Armor Class represents how difficult it is for hit or damage you.
 
 Armor Class = 8 + Combat Proficiency + Agility + Armor Bonus
 
+## Step 7: Combat Modifiers
+Assuming your Prime Modifier is 3. You have the following stats for your character:
+- Attack/Spell Check: +4
+- Save DC: 14
+- Physical Check: Highest between Athletics or Acrobatics
+- Death Threshold: -3
+- Move Speed: 5 (can be changed by Ancestry)
+- Jump Distance: Equal to your Agility (min. of 1)
+- Rest Points: 1 + Might (min. of 1)
 
+## Step 8: Ancestry and Class
+Choose an Ancestry. This ancestry represents your biology and how you've developed as you've grown. 
+
+Choose a Class. Your class represents your training and experience. This is represented by:
+- Additional HP depending on the class
+- Learning Cantrips, Spells, and Maneuvers
+- Additional Skill points
+
+Your Class also determines your starting equipment
