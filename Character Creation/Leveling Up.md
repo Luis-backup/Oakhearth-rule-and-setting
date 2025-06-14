@@ -1,0 +1,1 @@
+As Character gain experience and becoming stronger, their level increases. This set of rules relies on Milestone Leveling, which means that you level up when your the GM deems that 
