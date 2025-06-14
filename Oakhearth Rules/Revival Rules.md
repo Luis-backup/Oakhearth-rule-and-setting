@@ -1,4 +1,8 @@
-A character can only be revived with magic three times before it fails.
+## Limited Revival
+Every creature can only be revived with normal magic a maximum of 
+
+
+
 
 Break the Chains of Fate:
 - cannot be revived but gets a last stand
