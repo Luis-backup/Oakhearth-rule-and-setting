@@ -1,7 +1,10 @@
 ## Limited Revival
-Every creature can only be revived with normal magic a maximum of 
+Every creature can only be revived with normal magic a maximum of three times. After three times, and magical spell or effects that attempts to revive the creature automatically fails. 
 
 
+
+## Break the Chains of Fate
+If you
 
 
 Break the Chains of Fate:
