@@ -4,7 +4,7 @@ Every creature can only be revived with normal magic a maximum of three times. A
 
 
 ## Break the Chains of Fate
-If you
+If your character would die
 
 
 Break the Chains of Fate:
