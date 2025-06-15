@@ -59,3 +59,12 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 - Natural Diplomat: You learn an additional Common Language. 
 - Mundane: You have ADV on saves and check to discern magical illusions.
 - Persistent: The penalties from the Exhaustion condition are reduced by 1. 
+
+### Lightfoot
+
+**Core Traits**
+- Size: Small
+- Move: 5
+
+**Secondary Traits**
+- Light Body: You take 1 less falling damage
