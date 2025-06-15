@@ -65,8 +65,8 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 **Core Traits**
 - Size: Small
 - Move: 5
-- Small Form: You have ADV on saves against traps.
-- 
+- Small Form: You have ADV on saves against traps. When you use a weapon with the loading property, the AP required is increased by 1.
+- Elusive: When you take the Disengage Action, you instead gain the benefit of the Full Disengage Action.
 
 **Secondary Traits**
 - Light Body: You take 1 less falling damage.
