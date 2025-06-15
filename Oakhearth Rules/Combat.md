@@ -52,7 +52,7 @@ If you have a free hand, you can attempt to Grapple a creature. To do this, make
 
 
 **Shove (1 AP)**
-You attempt to push a creature within 1 Space of you. Make an Athletics Check contested by the target’s Martial Check. On a success, you push the creature 1 Space away from you or to its left or right. For every 5 points your roll exceeds the target’s roll, you can push the creature 1 additional Space. After resolving the push, you can choose to reduce the total distance the target is pushed by 1 Space to knock them Prone instead.
+You attempt to push a creature within 1 Space of you. Make an Athletics Check contested by the target’s Physical Check. On a success, you push the creature 1 Space away from you or to its left or right. For every 5 points your roll exceeds the target’s roll, you can push the creature 1 additional Space. After resolving the push, you can choose to reduce the total distance the target is pushed by 1 Space to knock them Prone instead.
 
 
 **Tackle (1 AP)**
@@ -111,8 +111,8 @@ Valid triggers include (but aren't limited to):
 When you take the Move Action you can move a number of spaces equal to your Movement. You can split your Move action. Example: If you have 6 Movement, you can move 3 spaces, attack, and then move 3 spaces away. 
 
 You can take more than one Move Action per round, but each time you do, your Movement is halved. You cannot take the Move Action more than 3 times.
-- 1st Move Action: You move your Movement value
-- 2nd Move Action: You move half your Movement value
+- 1st Move Action: You move your Move value
+- 2nd Move Action: You move half your Move value
 - 3rd Move Action: You move a quarter of your Movement value
 
 ### Reactions  
