@@ -77,4 +77,4 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 - Light Body: You take 1 less falling damage.
 - Fight-or-Fight: Once per day, you can end the Intimated or Frightened Condition on yourself for free at anytime. 
 - Deft Form: Your Proficiency Level Cap for Sleight-of-Hand increase by 1. A skill can only benefit from one increase to its Proficiency Level Cap.
-- 
+- Natural Climber: You gain a Climb Speed equal to your Move. 
