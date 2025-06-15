@@ -18,4 +18,5 @@ Dwarves are a short and stout people. They typically stand between 4.5' and 5' t
 **Secondary Traits**
 - Thick-Skinned: Your Armor Class increases by 1 while you're not wearing Heavy Armor.
 - Thick-Bearded: You are immune to airborne effects that would deal poison damage or impose the Poisoned condition. 
-- Dense: You have ADV on any checks or saves to avoid being forcibly moved. 
+- Dense: You have ADV on any checks or saves to avoid being forcibly moved.
+- Cave Diver: You have Darkvision up to 20ft.
