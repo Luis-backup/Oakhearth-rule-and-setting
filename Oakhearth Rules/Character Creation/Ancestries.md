@@ -13,7 +13,7 @@ Dwarves reach adulthood at 30 years old and most live to be around 150, with the
 
 **Core Traits**
 - Size: Medium
-- Move: 4
+- Move: 5
 - Tough: You HP max increase by 1
 - Toxic Fortitude: You have have Poison Resistance (Half) and ADV on Save against being Poisoned.
 - Iron Stomach: You have ADV on Saves against effects that come from consuming food or liquids. 
@@ -31,4 +31,7 @@ Elves are innately tuned to nature, and as a result most Elf communities are fou
 Elves reach adulthood at 50 and most live to be around 200. The maximum age of Elves is unknown.
 
 **Core Traits**
-- Size: Medi
+- Size: Medium
+- Move: 6
+- Natural Hunter:
+- 
