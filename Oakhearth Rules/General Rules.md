@@ -155,4 +155,6 @@ Creatures with Truesight have the ability to see things that are normally imperc
 - Orcish - language of the Orcs
 
 ### Uncommon Language
-- Celestial
+- Celestial - languages of angels and other celestial beings
+- Jotunn Speak
+- 
