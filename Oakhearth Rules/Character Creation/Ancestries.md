@@ -65,7 +65,7 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 **Core Traits**
 - Size: Small
 - Move: 5
-- Small Form: You have ADV on checks and saves to avoid traps.
+- Small Form: You have ADV on saves against traps.
 - 
 
 **Secondary Traits**
