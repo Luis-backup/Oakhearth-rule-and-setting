@@ -9,6 +9,8 @@ These groups of people can be found throughout the world in large groups, either
 ### Dwarves
 Dwarves are a short and stout people. They typically stand between 4.5' and 5' tall. All Dwarves grow beards, and most Dwarf societies take pride in maintaining them regardless of gender. Dwarves skin tones are very similar to those of Humans with Dwarves living near volcanic activity being dark in skin tone and those living in poorly lit areas being notably pale. 
 
+Dwarves reach adulthood at 30 years old and most live to be around 150, with the oldest known Dwarves reach 200
+
 **Core Traits**
 - Size: Medium
 - Move: 4
