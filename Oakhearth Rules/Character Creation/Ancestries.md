@@ -41,4 +41,7 @@ Elves reach adulthood at 50 and most live to be around 200. The maximum age of E
 - Wild Runner: You are not affected by Difficult Terrain.
 - Traversal of Wilds: You have a Climbing Speed equal to your Move.
 - Prey Instinct: You only need 4 hours of No Activity to complete a Long Rest and have ADV on Perception rolls to wake up from sleeping. 
-- 
+- Green Thumb: You can cast the Druidcraft cantrip.
+
+### Human
+Humans are a jacks of all trades but master of none
