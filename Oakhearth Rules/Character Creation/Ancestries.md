@@ -58,4 +58,4 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 - Human Spirit: You have ADV on Death Save.
 - Natural Diplomat: You learn an additional Common Language. 
 - Mundane: You have ADV on saves and check to discern magical illusions.
-- 
+- Persistent: The penalties from the Exhaustion condition are reduced by 1. 
