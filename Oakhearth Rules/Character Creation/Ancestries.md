@@ -44,4 +44,4 @@ Elves reach adulthood at 50 and most live to be around 200. The maximum age of E
 - Green Thumb: You can cast the Druidcraft cantrip.
 
 ### Human
-Humans are a jacks of all trades but master of none
+Humans are a jacks of all trades but masters of none. Most humans stand between 5'4 and 6' with other heights occurring less often. 
