@@ -153,3 +153,6 @@ Creatures with Truesight have the ability to see things that are normally imperc
 - Lightfoot - language of the Lightfoots
 - Miauen - language of the Miauen (cat-folk)
 - Orcish - language of the Orcs
+
+### Uncommon Language
+- Celestial

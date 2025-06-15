@@ -6,7 +6,7 @@ Many people can trace their lineage to multiple groups. Because of this, you can
 ## Common Ancestries
 These groups of people can be found throughout the world in large groups, either in their own civilizations or in combined civilizations. To all but the most isolated people, seeing a person of any of these ancestries does not pose any questions.
 
-### Dwarves
+### Dwarf
 Dwarves are a short and stout people. They typically stand between 4.5' and 5' tall. All Dwarves grow beards, and most Dwarf societies take pride in maintaining them regardless of gender. Dwarves skin tones are very similar to those of Humans with Dwarves living near volcanic activity being dark in skin tone and those living in poorly lit areas being notably pale. 
 
 Dwarves reach adulthood at 30 years old and most live to be around 150, with the oldest known Dwarves reach 200
@@ -25,7 +25,7 @@ Dwarves reach adulthood at 30 years old and most live to be around 150, with the
 - Cave Diver: You have Darkvision up to 4 spaces.
 - Minor Tremorsense: You have Tremorsense up to 2 spaces. 
 
-### Elves
+### Elf
 Elves are innately tuned to nature, and as a result most Elf communities are found in forests and other places with dense plant life. Most Elves stand between 5'5 and 5'10 in height. Physically, Elves tend to be lean with less body fat than humans, often making them appear endogenous to non-elves. However, their appearance does not negatively affect their strength. Regarding skin tones, they tend to resemble the color of trees common to the area in which an Elf is born. This often results in brown skin tones, but areas with more uniquely colored trees like Birch commonly lead to non-brown skin tones. Regarding hair, most Elves have brown hair with Dark Green and Shades of orange being less common. Elf ears are similar slightly smaller than those of humans and notably more pointed. 
 
 Elves reach adulthood at 50 and most live to be around 200. The maximum age of Elves is unknown.
@@ -56,4 +56,4 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 **Secondary Traits**
 - Quick Learner: You gain 1 Skill Point.
 - Human Spirit: You have ADV on Death Save.
-- Natural Diplomat: You learn an additional Language of your 
+- Natural Diplomat: You learn an additional Common Language. 
