@@ -39,4 +39,5 @@ Elves reach adulthood at 50 and most live to be around 200. The maximum age of E
 
 **Secondary Traits**
 - Wild Runner: You are not affected by Difficult Terrain.
-- Prey Instinct: You only need 4 hours of No Activity to complete a Long Rest and you do not 
+- Prey Instinct: You only need 4 hours of No Activity to complete a Long Rest and have ADV on Perception rolls to wake up from sleeping. 
+- 
