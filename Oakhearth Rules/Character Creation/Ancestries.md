@@ -12,4 +12,10 @@ Dwarves are a short and stout people. They typically stand between 4.5' and 5' t
 - Size: Medium
 - Move: 4
 - Tough: You HP max increase by 1
-- 
+- Toxic Fortitude: You have have Poison Resistance (Half) and ADV on Save against being Poisoned.
+- Iron Stomach: You have ADV on Saves against effects that come from consuming food or liquids. 
+
+**Secondary Traits**
+- Thick-Skinned: Your Armor Class increases by 1 while you're not wearing Heavy Armor.
+- Thick-Bearded: You are immune to airborne effects that would deal poison damage or impose the Poisoned condition. 
+- Dense: You have ADV on any checks or saves to avoid being forcibly moved. 
