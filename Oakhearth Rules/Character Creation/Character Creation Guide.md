@@ -15,7 +15,7 @@ The number of starting skill points you get depends on your Intelligence score.
 *Starting Skill Points* = 5 + Intelligence (if your score is negative, you do subtract from the total)
 
 ### Languages
-Your character knows Common and one other language of your choice.
+Your character knows Common and one other common language of your choice.
 *Language List*
 - Dwarvish - language of the Dwarves
 - Elvish - language of the Elves

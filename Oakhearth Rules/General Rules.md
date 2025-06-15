@@ -141,3 +141,15 @@ Creatures with Blindsight have the ability to see things within a specified rang
 
 **Truesight**
 Creatures with Truesight have the ability to see things that are normally imperceptible out to a specified range. They can see through normal and magical Darkness, automatically see through illusions, and can perceive the true form of a Shapechanger or creature that is transformed by magic.
+
+
+## Languages
+### Common Languages
+- Common - an intermediary language that most people speak 
+- Dwarvish - language of the Dwarves
+- Elvish - language of the Elves
+- Hase - language of the the Hasen (bunny-folk) 
+- Human - language of the Humans
+- Lightfoot - language of the Lightfoots
+- Miauen - language of the Miauen (cat-folk)
+- Orcish - language of the Orcs

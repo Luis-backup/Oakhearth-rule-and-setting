@@ -51,3 +51,9 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 - Move: 6
 - Attribute Increase: Choose and Attribute. The chosen Attribute increases by 1 (up to the Attribute Limit).
 - Human Resolve: Your Death Door Threshold value is expanded by 1. 
+- Flexibility: You gain 1 additional Skill Point during Character Creation.
+
+**Secondary Traits**
+- Quick Learner: You gain 1 Skill Point.
+- Human Spirit: You have ADV on Death Save.
+- Natural Diplomat: You learn an additional Language of your 
