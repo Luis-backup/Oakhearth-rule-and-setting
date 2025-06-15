@@ -65,6 +65,9 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 **Core Traits**
 - Size: Small
 - Move: 5
+- Small Form: You have ADV on checks and saves to avoid traps.
+- 
 
 **Secondary Traits**
-- Light Body: You take 1 less falling damage
+- Light Body: You take 1 less falling damage.
+- 
