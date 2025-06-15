@@ -24,4 +24,7 @@ Dwarves are a short and stout people. They typically stand between 4.5' and 5' t
 - Minor Tremorsense: You have Tremorsense up to 2 spaces. 
 
 ### Elves
-Elves are innately tuned to nature, and as a result most Elf communities are found in forests and other places with dense plant life. Most Elves stand between 5'5 and 5'10 in height. Physically, Elves tend to be lean with less body fat than humans, often making them appear endogenous to non-elves. However, their appearance does not negatively affect their strength. Regarding skin tones, they tend to resemble the color of trees common to the area in which an Elf is born. This often results in brown skin tones, but more 
+Elves are innately tuned to nature, and as a result most Elf communities are found in forests and other places with dense plant life. Most Elves stand between 5'5 and 5'10 in height. Physically, Elves tend to be lean with less body fat than humans, often making them appear endogenous to non-elves. However, their appearance does not negatively affect their strength. Regarding skin tones, they tend to resemble the color of trees common to the area in which an Elf is born. This often results in brown skin tones, but areas with more uniquely colored trees like Birch commonly lead to non-brown skin tones. Regarding hair, most Elves have brown hair with Dark Green and Shades of orange being less common. Elf ears are similar slightly smaller than those of humans and notably more pointed. 
+
+**Core Traits**
+- 
