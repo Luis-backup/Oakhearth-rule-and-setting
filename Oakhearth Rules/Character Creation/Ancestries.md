@@ -69,7 +69,7 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 	- You have ADV on saves against traps. 
 	- When you use a weapon with the loading property, the AP required is increased by 1. 
 	- Your Speed is reduced by 1 when wielding a Heavy shield.
-	- A day's ration (as described in the rule) instead lasts 2 days for you. 
+	- A day's ration (as described in the rule) instead lasts 2 days for you and you require less water to survive. 
 - Elusive: When you take the Disengage Action, you instead gain the benefit of the Full Disengage Action.
 - Fleet of Foot: You have ADV on Initiative rolls. The second time you take the Move Action in a round of combat, your Move value is not halved.
 
