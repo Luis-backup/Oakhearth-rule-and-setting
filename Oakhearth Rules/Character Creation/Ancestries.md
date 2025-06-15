@@ -35,3 +35,8 @@ Elves reach adulthood at 50 and most live to be around 200. The maximum age of E
 - Move: 6
 - Natural Hunter: Your Proficiency Level Cap for Survival increase by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
 - Traversal of Wilds: You have a Climbing Speed equal to half your Move.
+- Grounded Nature: You have ADV on Checks and Saves against being Charmed.
+
+**Secondary Traits**
+- Wild Runner: You are not affected by Difficult Terrain.
+- Prey Instinct: You only need 4 hours of No Activity to complete a Long Rest and you do not 
