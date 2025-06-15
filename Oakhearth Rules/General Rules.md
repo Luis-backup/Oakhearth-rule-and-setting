@@ -156,5 +156,6 @@ Creatures with Truesight have the ability to see things that are normally imperc
 
 ### Uncommon Language
 - Celestial - languages of angels and other celestial beings
-- Jotunn Speak
-- 
+- Jotunn-Speak: language of the giants
+- Draconic - language of the Dragons and draconic beings
+- Fiend-tongue - language of the Hells.
