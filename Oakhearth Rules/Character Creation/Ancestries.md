@@ -49,4 +49,5 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 **Core Traits**
 - Size: Medium
 - Move: 6
-- 
+- Attribute Increase: Choose and Attribute. The chosen Attribute increases by 1 (up to the Attribute Limit).
+- Human Resolve: Your Death Door Threshold value is expanded by 1. 
