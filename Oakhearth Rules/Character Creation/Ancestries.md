@@ -57,3 +57,5 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 - Quick Learner: You gain 1 Skill Point.
 - Human Spirit: You have ADV on Death Save.
 - Natural Diplomat: You learn an additional Common Language. 
+- Mundane: You have ADV on saves and check to discern magical illusions.
+- 
