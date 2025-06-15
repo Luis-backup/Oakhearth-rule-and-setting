@@ -14,7 +14,7 @@ When attempting an action with a chance of failure, roll the relevant skill. Eac
 
 ### Dexterity
 - Acrobatics: Your ability to maintain balance and agility in tricky situations, such as running across ice or balancing on a tightrope.
-- Sleight of Hand: Covers manual dexterity for tasks like pickpocketing or performing subtle tricks.
+- Sleight-of-Hand: Covers manual dexterity for tasks like pickpocketing or performing subtle tricks.
 - Stealth: Represents your ability to remain undetected by others.
 
 ### Intelligence
