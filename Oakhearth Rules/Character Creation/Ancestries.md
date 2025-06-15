@@ -33,5 +33,5 @@ Elves reach adulthood at 50 and most live to be around 200. The maximum age of E
 **Core Traits**
 - Size: Medium
 - Move: 6
-- Natural Hunter:
-- 
+- Natural Hunter: 
+- Traversal of Wilds: You have a Climbing Speed equal to half your Move.
