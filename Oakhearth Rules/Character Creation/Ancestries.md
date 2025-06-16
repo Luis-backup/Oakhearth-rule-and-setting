@@ -61,6 +61,7 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 - Persistent: The penalties from the Exhaustion condition are reduced by 1. 
 
 ### Lightfoot
+Lightfoots are the smallest of the common ancestries 
 
 **Core Traits**
 - Size: Small
