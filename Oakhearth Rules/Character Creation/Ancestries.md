@@ -61,7 +61,7 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 - Persistent: The penalties from the Exhaustion condition are reduced by 1. 
 
 ### Lightfoot
-Lightfoots are the smallest of the common ancestries, standing between 3' and 4' for adults. They reach maturity at the age of 15 and the average lifespan is 70 with the oldest Lightfoots reaching 90. Despite their height, Lightfoots have roughly the same proportions of Humans, and they have similar hair and skin tones. Notably, Lightfoots tend to be thinner than humans and have large ears for their size.  
+Lightfoots are the smallest of the common ancestries, standing between 3' and 4' for adults. They reach maturity at the age of 15 and the average lifespan is 70 with the oldest Lightfoots reaching 90. Despite their height, Lightfoots have roughly the same proportions of Humans, and they have similar hair and skin tones. Notably, Lightfoots tend to be thinner than humans and have large ears for their size. While Lightfoots can grow facial hair, it tends to be thinner than the other ancestries. 
 
 **Core Traits**
 - Size: Small
@@ -80,3 +80,7 @@ Lightfoots are the smallest of the common ancestries, standing between 3' and 4'
 - Deft Form: Your Proficiency Level Cap for Sleight-of-Hand increase by 1. A skill can only benefit from one increase to its Proficiency Level Cap.
 - Natural Climber: You gain a Climb Speed equal to your Move.
 - Scurry: When an Attack of Opportunity misses you, you can Move 1 more space without provoking any Attacks of Opportunity.
+
+
+### Orc
+Orcs are known for their stamina and strength. Their skin tones are shades of green. In addition to Human hair colors
