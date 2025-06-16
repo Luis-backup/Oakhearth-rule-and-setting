@@ -94,4 +94,4 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 
 **Secondary Traits**
 - Runner: Increase your Move by 1.
-- 
+- Nomad: Choose Animal Handling or 
