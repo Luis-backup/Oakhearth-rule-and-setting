@@ -61,7 +61,7 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 - Persistent: The penalties from the Exhaustion condition are reduced by 1. 
 
 ### Lightfoot
-Lightfoots are the smallest of the common ancestries 
+Lightfoots are the smallest of the common ancestries, standing between 3' and 4' for adults. They reach maturity at the age of 15 and the average lifespan is 70 with the oldest Lightfoots reaching 90. Despite their height, Lightfoots have roughly the same proportions of Humans, and they have similar hair and skin tones. Notably, Lightfoots tend to be thinner than humans and have large ears for their size.  
 
 **Core Traits**
 - Size: Small
