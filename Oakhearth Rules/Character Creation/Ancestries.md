@@ -90,3 +90,7 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 - Move: 6
 - Defying Endurance: Once per day, the first time you would be reduced to Death's Door, you are instead reduced to 1 HP.
 - Tough: You HP maximum increases by 1.
+- Brutal Strikes: You deal +1 damage when you score a Brutal or Critical Hit with a Melee Weapon or Unarmed Strikes.
+
+**Secondary Traits**
+- 
