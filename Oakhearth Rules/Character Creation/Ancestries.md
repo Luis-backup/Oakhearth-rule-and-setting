@@ -90,8 +90,9 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 - Move: 6
 - Defying Endurance: Once per day, the first time you would be reduced to Death's Door, you are instead reduced to 1 HP.
 - Tough: You HP maximum increases by 1.
-- Brutal Strikes: You deal +1 damage when you score a Brutal or Critical Hit with a Melee Weapon or Unarmed Strikes.
+- Nomad: Choose Animal Handling or Survival, your Proficiency Level Cap with that skill is increased by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
 
 **Secondary Traits**
 - Runner: Increase your Move by 1.
-- Nomad: Choose Animal Handling or 
+- Brutal Strikes: You deal +1 damage when you score a Brutal or Critical Hit with a Melee Weapon or Unarmed Strikes.
+- 
