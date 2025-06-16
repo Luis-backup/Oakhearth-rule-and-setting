@@ -83,4 +83,4 @@ Lightfoots are the smallest of the common ancestries, standing between 3' and 4'
 
 
 ### Orc
-Orcs are known for their stamina and strength. Their skin tones are mostly shades of green with greyish-blues being less common. In addition to Human hair colors, Orcs can have dark violet or dark blue hair, and auburn hair is much more common. Most Orcs stand between 5'7 and 6'5.  Orcs ears are a similar size (proportionally) and shape to those of pigs. Furthermore, they tend to have broad and short noses (a ).
+Orcs are known for their stamina and strength. Their skin tones are mostly shades of green with greyish-blues being less common. In addition to Human hair colors, Orcs can have dark violet or dark blue hair, and auburn hair is much more common. Most Orcs stand between 5'7 and 6'5.  Orcs ears are a similar size (proportionally) and shape to those of pigs. Furthermore, they tend to have broad and short noses (a little pig-like). One of the most notable aspects of Orcs are their enlarged canines
