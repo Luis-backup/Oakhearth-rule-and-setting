@@ -95,4 +95,4 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 **Secondary Traits**
 - Runner: Increase your Move by 1.
 - Brutal Strikes: You deal +1 damage when you score a Brutal or Critical Hit with a Melee Weapon or Unarmed Strikes.
-- 
+- Long Traveler:
