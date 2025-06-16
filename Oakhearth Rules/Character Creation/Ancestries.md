@@ -95,4 +95,5 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 **Secondary Traits**
 - Runner: Increase your Move by 1.
 - Brutal Strikes: You deal +1 damage when you score a Brutal or Critical Hit with a Melee Weapon or Unarmed Strikes.
-- Persistent Traveler: You have ADV on saves against Exhaustion
+- Persistent Traveler: You have ADV on saves against Exhaustion.
+- Born Riders: You have ADV on saves and checks to stay on your mount. 
