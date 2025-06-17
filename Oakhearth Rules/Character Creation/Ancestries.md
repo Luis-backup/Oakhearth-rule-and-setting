@@ -104,4 +104,4 @@ These groups of people are the result of some magical effect on their bloodline 
 ### Dragonborne
 Dragonborne are believed to be the descendants those who served dragons, either as worshipers or as slaves. Dragonborne are not fully draconic. Physically speaking, most Dragonborne resemble Humans (theorized to be due their flexibility), though they can appear like any other race Ancestry. Their appearance can vary widely, but all Dragonborne have draconic scales on their bodies with their color dependent on the type of dragon they have a connection with. For fire dragons, the scales are shades of red or warm browns. For water/ice dragons the scales are shades of blue or  cold whites. For air dragons, the scales are shades of grays or yellows. The location and density the scales are inconsistent, but they tend to cover at least a quarter of the person's skin. 
 
-In addition to the 
+In addition to the scales, some Dragonborne 
