@@ -102,4 +102,4 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 These groups of people are the result of some magical effect on their bloodline with some people developing traits of these ancestries after exposure to strong forms of magic. Because of their relatively small population and the inconsistency of when they are born in a family tree, they are often considered cursed or bastard, causing them to face prejudice. However, the forms of their bodies are not reflections of their souls.
 
 ### Dragonborne
-Dragonborne are believed to be the descendants those who served dragons, either as worshipers or as slaves.
+Dragonborne are believed to be the descendants those who served dragons, either as worshipers or as slaves. Dragonborne are not fully draconic. Physically speaking, most Dragonborne resemble Humans (theorized to be due their flexibility), though they can appear like any other race Ancestry. Their appearance can vary widely, but all Dragonborne
