@@ -99,3 +99,7 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 - Born Rider: You have ADV on saves and checks to stay on your mount. 
 
 ## Uncommon Ancestries
+These groups of people are the result of some magical effect on their bloodline with some people developing traits of these ancestries after exposure to strong forms of magic. Because of their relatively small population and the inconsistency of when they are born in a family tree, they are often considered cursed or bastard, causing them to face prejudice. However, the forms of their bodies are not reflections of their souls.
+
+### Dragonborne
+Dragonborne are believed to be the descendants those who served dragons, either as worshipers or as slaves.
