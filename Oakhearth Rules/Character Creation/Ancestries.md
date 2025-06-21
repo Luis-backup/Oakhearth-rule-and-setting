@@ -109,9 +109,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 **Core Traits**
 Size: Medium or Small
 Speed: 6
-Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as the element of your Draconic Origin. 
-- You gain a Protection Bonus for the element of your Draconic Bonus equal to your Combat Proficiency
-- 
+Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as the element of your Draconic Origin. You gain a Protection Bonus for the element of your Draconic Bonus equal to your Combat Proficiency
 
 ### Hellkin
 
