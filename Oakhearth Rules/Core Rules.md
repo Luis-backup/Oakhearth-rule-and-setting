@@ -17,7 +17,13 @@ The value of an attribute is added to relevant skills and defenses.
 Your Prime Attribute is your highest Attribute value. It is added to your Attack Rolls.
 
 ## Proficiency Level (PL):
-Proficiency Levels represent your skill with a particular Skill. There are 5 Skill Proficiency Levels. You can spend Skill Points to increase your Proficiency Level in a given Skill. 
+Proficiency Levels represent your skill with a particular Skill. There are 5 Skill Proficiency Levels. You can spend Skill Points to increase your Proficiency Level in a given Skill. For every Proficiency Level you add +2 to that skill. 
+
+## Combat Proficiency
+Combat Proficiency (CP) reflects your character's skill and experience in combat, including the effective use of weapons, armor, and other tools of war.
+
+Your Combat Proficiency (CP) is calculated as: CP = 1 + ½ your character's level (rounded down)
+
 
 ## Rounding Rules:
 Always round down when calculating values, with a minimum result of 1. The exception to this is if you have Resistance to a damage type, in this case you can round down to 0. 
