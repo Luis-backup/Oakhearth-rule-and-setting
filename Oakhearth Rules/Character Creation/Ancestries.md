@@ -116,7 +116,8 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 
 **Secondary Traits**
 - Draconic Arm: Your Unarmed Strike increases to 1. Additionally you can choose between Bludgeoning or Slashing damage on each attack.
-- Draconic Visage: 
+- Draconic Visage: Choose between the Intimidation or Threaten skill. Your Proficiency Level Cap for that skill is increased by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
+- Draconic Legs: 
 
 ### Hellkin
 
