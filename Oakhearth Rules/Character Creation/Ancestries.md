@@ -107,6 +107,8 @@ Dragonborne are believed to be the descendants those who served dragons, either 
 In addition to the scales, some Dragonborne have more draconic limbs such as strong, clawed hand or digitigrade legs. Some Dragonborne even have tails. 
 
 **Core Traits**
+Size: Medium or Small
+Speed: 6
 
 
 ### Hellkin
