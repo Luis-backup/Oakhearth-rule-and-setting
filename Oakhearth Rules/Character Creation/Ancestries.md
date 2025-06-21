@@ -109,7 +109,8 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 **Core Traits**
 Size: Medium or Small
 Speed: 6
-Draconic Origin: Choose Fire, Water (Cold), or Air as your Draconic Origin. 
+Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as your Draconic Origin. 
+- 
 
 ### Hellkin
 
