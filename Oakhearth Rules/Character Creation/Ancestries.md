@@ -121,6 +121,9 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 - Thick-Skinned: Your AC increases by 1 while you're not wearing Heavy Armor.
 
 ### Hellkin
+**Core Traits**
+
+**Secondary Traits**
 
 
 ### Jotunnheir
