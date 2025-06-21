@@ -107,9 +107,12 @@ Dragonborne are believed to be the descendants those who served dragons, either 
 In addition to the scales, some Dragonborne have more draconic limbs such as strong, clawed hand or digitigrade legs. Some Dragonborne even have tails. 
 
 **Core Traits**
-Size: Medium or Small
-Speed: 6
-Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as the element of your Draconic Origin. You gain a Protection Bonus for the element of your Draconic Bonus equal to your Combat Proficiency
+- Size: Medium or Small
+- Speed: 6
+- Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as the element of your Draconic Origin. 
+	- You gain a Protection Bonus for the element of your Draconic Bonus equal to your Combat Proficiency.
+	- Once per Combat encounter, you can imbue an Attack with the element of your Draconic Origin. The additional damage of this attack is equal to your Combat Proficiency
+
 
 ### Hellkin
 
