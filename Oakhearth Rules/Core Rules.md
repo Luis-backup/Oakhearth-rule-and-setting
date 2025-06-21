@@ -14,7 +14,7 @@ Oakhearth features 4 attributes that define your character:
 The value of an attribute is added to relevant skills and defenses.
 
 ### Prime Attribute:
-Your Prime Attribute is your highest Attribute value. It is added to your Attack Rolls.
+Your Prime Attribute is your highest Attribute value.
 
 ## Proficiency Level (PL):
 Proficiency Levels represent your skill with a particular Skill. There are 5 Skill Proficiency Levels. You can spend Skill Points to increase your Proficiency Level in a given Skill. For every Proficiency Level you add +2 to that skill. 
