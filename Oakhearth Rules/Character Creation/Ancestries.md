@@ -109,7 +109,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 **Core Traits**
 Size: Medium or Small
 Speed: 6
-
+Draconic Origin: Choose Fire, Water, or Air as your dr
 
 ### Hellkin
 
