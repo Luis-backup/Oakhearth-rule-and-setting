@@ -108,7 +108,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 
 **Core Traits**
 - Size: Medium or Small
-- Speed: 6
+- Move: 6
 - Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as the element of your Draconic Origin. 
 	- You gain a Protection Bonus for the element of your Draconic Bonus equal to your Combat Proficiency.
 	- Once per Combat encounter, you can imbue an Attack with the element of your Draconic Origin. The additional damage of this attack is equal to your Combat Proficiency
@@ -117,7 +117,8 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 **Secondary Traits**
 - Draconic Arm: Your Unarmed Strike increases to 1. Additionally you can choose between Bludgeoning or Slashing damage on each attack.
 - Draconic Visage: Choose between the Intimidation or Threaten skill. Your Proficiency Level Cap for that skill is increased by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
-- Draconic Legs: 
+- Draconic Legs: Increase your Move by 1.
+- Thick-Skinned: Your AC increases by 1 while you're not wearing Heavy Armor.
 
 ### Hellkin
 
