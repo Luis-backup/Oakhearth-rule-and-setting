@@ -122,6 +122,9 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 
 ### Hellkin
 **Core Traits**
+- Size: Small or Medium
+- Move: 6
+- 
 
 **Secondary Traits**
 
