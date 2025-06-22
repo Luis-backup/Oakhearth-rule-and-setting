@@ -121,7 +121,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 - Thick-Skinned: Your AC increases by 1 while you're not wearing Heavy Armor.
 
 ### Hellkin
-The Hells contain Demons and Devils. Demons are believed to be manifestations of mortal sins, while Devils are believed to be the warped souls of one or more 
+The Hells contain Demons and Devils. Demons are believed to be manifestations of mortal sins, while Devils are believed to be the warped souls of one or more mortals
 
 **Core Traits**
 - Size: Small or Medium
