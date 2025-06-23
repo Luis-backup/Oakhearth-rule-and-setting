@@ -131,6 +131,7 @@ Because of the varied nature of the Hells and its denizens, Hellkin are the most
 - Size: Small or Medium
 - Move: 6
 - Mana Infused: You gain 1 additional MP.
+- Darkvision: You have Darkvision up to 10 Spaces
 
 **Secondary Traits**
 
