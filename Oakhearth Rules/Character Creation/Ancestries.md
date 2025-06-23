@@ -119,6 +119,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 - Draconic Visage: Choose between the Intimidation or Threaten skill. Your Proficiency Level Cap for that skill is increased by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
 - Draconic Legs: Increase your Move by 1.
 - Thick-Skinned: Your AC increases by 1 while you're not wearing Heavy Armor.
+- Prehensile Tail: You can hold objects with your tail, but you cannot use it attack with a weapon or magic item. 
 
 ### Hellkin
 The Hells contain Demons and Devils. Demons are believed to be manifestations of mortal sins, while Devils are believed to be the warped souls of one or more mortals. Hellkin thus come from some interaction with Demons or Devils. While there are no hard rules for what causes a Hellkin to appear in a familial line, the most common believed causes are deals with a denizen of the hells, reproduction with those same creatures, or some hellish curse. 
@@ -129,7 +130,7 @@ Because of the varied nature of the Hells and its denizens, Hellkin are the most
 **Core Traits**
 - Size: Small or Medium
 - Move: 6
-- Mana Infused: You gain 1 additional MP
+- Mana Infused: You gain 1 additional MP.
 
 **Secondary Traits**
 
