@@ -135,8 +135,10 @@ Because of the varied nature of the Hells and its denizens, Hellkin are the most
 - Unfair Advantage: You gain 1 additional Attribute Point to spend as you wish during character creation.
 
 **Secondary Traits**
--  Prowler: You have ADV on Stealth Checks while in Darkness.
+- Prowler: You have ADV on Stealth Checks while in Darkness.
 - Light’s Bane: You can spend 1 AP to snuff out a mundane light source within 5 Spaces of you.
+- Fiendish Aura: You learn the Prestidigitation cantrip
+- Prehensile Tail: You can hold objects with your tail, but you cannot use it attack with a weapon or magic item. 
 
 ### Jotunnheir
 
