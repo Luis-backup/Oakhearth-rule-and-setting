@@ -37,4 +37,5 @@ When rolling a d20, add all relevant bonuses to the result. If the total exceeds
 ## Difficulty Challenge (DC): 
 The Difficulty Challenge (DC) represents how hard it is to succeed at a particular task. When attempting to overcome a challenge, your total roll (including all modifiers) must be equal to or greater than the DC to succeed.
 
-
+## Help Action
+When Outside of combat you can choose to help a creature succeed on a check if it makes sense. When you do so, the target of the Help Action adds a d8 to that check. Multiple creatures attempt to Help a creature if it makes since in the situation. If multiple creatures Help with the check the dice size gets smaller after each creature, starting at a d8 then d6 then d4. The GM may rule that a creature must succeed on a check before they are able to help another. For example, if a Wizard is making an Arcane Check with a DC 15, the GM may rule that any creature that wishes to help must succeed on a DC 10 Arcane roll to Help. 

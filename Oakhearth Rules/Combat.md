@@ -77,7 +77,6 @@ You can spend 1 AP to attempt to Hide from 1 or more creatures that can’t see 
 You can spend 1 AP to grant an ally a d8 Help Die until the start of your next turn.
 Declare the target creature and the type of Check you're aiding:
 - Attack: You must be within 1 Space of the attacker or target. The die can be added to an Attack against the declared target.
-- Skill/Trade: You must have at least 1 Proficiency Point in the relevant skill/trade and describe how you assist.
 The Help Die is consumed when used and applies only to the declared Check.
 
 *Multiple Help Penalty*: Each additional Help Action taken before the end of your turn reduces subsequent Help Dice by one step (d8, d6, d4). 
