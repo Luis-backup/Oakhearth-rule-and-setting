@@ -121,12 +121,15 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 - Thick-Skinned: Your AC increases by 1 while you're not wearing Heavy Armor.
 
 ### Hellkin
-The Hells contain Demons and Devils. Demons are believed to be manifestations of mortal sins, while Devils are believed to be the warped souls of one or more mortals
+The Hells contain Demons and Devils. Demons are believed to be manifestations of mortal sins, while Devils are believed to be the warped souls of one or more mortals. Hellkin thus come from some interaction with Demons or Devils. While there are no hard rules for what causes a Hellkin to appear in a familial line, the most common believed causes are deals with a denizen of the hells, reproduction with those same creatures, or some hellish curse. 
+
+Because of the varied nature of the Hells and its denizens, Hellkin are the most diverse in appearance among the other Ancestries. However, all Hellkin have the following two traits: a pair of horns protruding from their heads and a tail (or tails). Their skin tones can be almost any color. Some Hellkin can also have vestigial wings, normally bat-like but insectoid winds have also been seen.
+
 
 **Core Traits**
 - Size: Small or Medium
 - Move: 6
-- 
+- Mana Infused: You gain 1 additional MP
 
 **Secondary Traits**
 
