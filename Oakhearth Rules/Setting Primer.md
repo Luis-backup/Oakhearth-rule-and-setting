@@ -2,6 +2,7 @@
 ### Gaultism
 Sonnaris: the father and the Sun
 
+Mondra: the mother and goddess of the moon
 
 ### Spirits and smaller gods
 
