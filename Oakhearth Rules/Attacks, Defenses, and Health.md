@@ -41,13 +41,13 @@ When your Attack Check exceeds the target's AC by 5 or more, you deal +1 damage.
 
 These bonuses are called:
 - Heavy Hit: +5 over AC
-- Brutal Hit: +10 or more over AC. This also ignores any Protection Bonus
+- Brutal Hit: +10 or more over AC. This also ignores any Damage Reduction
 (A Brutal Hit also counts as a Heavy Hit for the sake of effects)
 
 ### Critical Hits
 On an Attack Check where you roll a natural 20:
 - Automatically hits the target
-- Ignores Protection Bonus  
+- Ignores Damage Reduction  
 - Deals +2 bonus damage
 
 ## Defenses
@@ -60,8 +60,8 @@ Armor Class represents the difficulty of physically hitting or touching a creatu
 - 8 + Combat Proficiency + Agility + Armor Bonus + Shield Bonus
 
 
-## Protection Bonus (PB)
-Protection Bonuses are most often given by armor. It reduces the damage of an Attack by an amount equal to the PB value (minimum of 0). A Brutal Hit (10 or more over the Defense) or Critical Hit (a 20 on the d20) bypasses PB and deals full damage. It  typically only applies to Physical and Elemental Damage unless stated otherwise.
+## Damage Reduction (DRd)
+Damage Reduction is most often given by armor. It reduces the damage of an Attack by an amount equal to the DRd value (minimum of 0). A Brutal Hit (10 or more over the Defense) or Critical Hit (a 20 on the d20) bypasses DRd and deals full damage. It  typically only applies to Physical and Elemental Damage unless stated otherwise.
 
 
 ## Resistance and Vulnerability
@@ -153,4 +153,4 @@ Damage types are organized into categories, such as Physical, Elemental, and Mys
 3. Add any damage from Action Points spent (Maneuvers, Class Features, AP Enhancements, etc.)
 4. Add any + damage from Passives (Weapon Passives, Class Features, Magic Items, etc.)
 5. Subtract any damage from Resistances and Vulnerabilities
-6. Subtract damage from any Protection Bonus
+6. Subtract damage from any Damage Reduction

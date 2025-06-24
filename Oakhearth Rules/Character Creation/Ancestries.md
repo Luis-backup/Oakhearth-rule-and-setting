@@ -110,7 +110,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 - Size: Medium or Small
 - Move: 6
 - Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as the element of your Draconic Origin. 
-	- You gain a Protection Bonus for the element of your Draconic Bonus equal to your Combat Proficiency.
+	- You gain a Resistance (x) for the element of your Draconic Bonus where X is equal to your Combat Proficiency.
 	- Once per Combat encounter, you can imbue an Attack with the element of your Draconic Origin. The additional damage of this attack is equal to your Combat Proficiency
 - Darkvision: You have Darkvision up to 10 Spaces
 
@@ -141,6 +141,22 @@ Because of the varied nature of the Hells and its denizens, Hellkin are the most
 - Prehensile Tail: You can hold objects with your tail, but you cannot use it attack with a weapon or magic item. 
 
 ### Jotunnheir
+It is said that one of the last kings of the stone giants fell in love with a mortal, and that his love was great, he carved his body down to be with his love. The children of this king are the Jotunnheir, the children of Giants. Unlike the other uncommon ancestries, Jotunnheir gather in communities of their own kind. While not universal, the myth of the origin has led most Jotunnheir communities to be very family focused. 
+
+Physically, the Jotunnheir stand between 6 and 7 feet, with some growing as tall as 8. They reach physical maturity at around 25 and the average lifespan is 100 years, however many of the more mystical Jotunnheir are known to grow much older. Because of their relationship to stone giants specifically, Jotunnheir skin tones are mostly shades of grey with shades of greyish blue or reds also occurring. While Jotunnheir can grow body and facial hair plentifully, most male Jotunnheir begin balding by the time they are 30. Their hair is almost always black or dark grey, and it is comparatively stiff. 
+
+**Core Traits**
+- Size: Medium
+- Move: 6
+- Powerful Build: You count as 1 size Larger for the purpose of Athletic Checks and .
+- Stone Skin: You gain 1 Damage Reduction against Physical Damage (Slashing, Piercing, and Bludgeoning damage)
+- Mighty Leap: You can use your Might instead of Dexterity to determine your Jump Distance and the damage you take from Falling.
+
+**Secondary Trait**
+- Dense: You have ADV on any checks or saves to avoid being forcibly moved.
+- Unstoppable: You have ADV on Saves against being Slowed or Stunned.
+- Stamina Increase: Your SP maximum increases by 1.
+- Rock Thrower: When you throw a rock as an attack, you add your Combat Proficiency to the attack roll. The rock as the following properties: 1B, Impact, Thrown (4/8) .
 
 
 ### Seraphsent
