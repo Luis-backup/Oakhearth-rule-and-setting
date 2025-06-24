@@ -1,5 +1,7 @@
 ## Religion
 ### Gaultism
+Sonnaris: the father and the Sun
+
 
 ### Spirits and smaller gods
 
