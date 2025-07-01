@@ -160,3 +160,4 @@ Physically, the Jotunnheir stand between 6 and 7 feet, with some growing as tall
 
 
 ### Seraphsent
+The Seraphsent are said to be a gift from the gods, meant to help the common people rise up. However, many scholars argue that they emerge in a similar way as the Hellkin, that being people or bloodlines that have been exposed to a significant amount of magic (celestial in this case). 
