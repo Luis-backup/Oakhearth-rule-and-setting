@@ -107,12 +107,12 @@ Valid triggers include (but aren't limited to):
 - Specific combat events (spellcasting, item use)
 
 ### Move Action
-When you take the Move Action you can move a number of spaces equal to your Movement. You can split your Move action. Example: If you have 6 Movement, you can move 3 spaces, attack, and then move 3 spaces away. 
+When you take the Move Action you can move a number of spaces equal to your Speed. You can split your Move action. Example: If you have 6 Speed, you can move 3 spaces, attack, and then move 3 spaces away. 
 
-You can take more than one Move Action per round, but each time you do, your Movement is halved. You cannot take the Move Action more than 3 times.
-- 1st Move Action: You move your Move value
-- 2nd Move Action: You move half your Move value
-- 3rd Move Action: You move a quarter of your Movement value
+You can take more than one Move Action per round, but each time you do, your Speed is halved. You cannot take the Move Action more than 3 times.
+- 1st Move Action: You move your Speed
+- 2nd Move Action: You move half your Speed
+- 3rd Move Action: You move a quarter of your Speed
 
 ### Reactions  
 Reactions are types actions taken in response to specific triggers during another creature's turn. A creature cannot normally take reactions during its own turn unless responding to another reaction.

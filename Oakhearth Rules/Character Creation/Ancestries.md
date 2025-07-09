@@ -13,7 +13,7 @@ Dwarves reach adulthood at 30 years old and most live to be around 150, with the
 
 **Core Traits**
 - Size: Medium
-- Move: 5
+- Speed: 5
 - Tough: You HP max increase by 1
 - Toxic Fortitude: You have have Poison Resistance (Half) and ADV on Save against being Poisoned.
 - Iron Stomach: You have ADV on Saves against effects that come from consuming food or liquids. 
@@ -32,14 +32,14 @@ Elves reach adulthood at 50 and most live to be around 200. The maximum age of E
 
 **Core Traits**
 - Size: Medium
-- Move: 6
+- Speed: 6
 - Natural Hunter: Your Proficiency Level Cap for Survival increase by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
 - Grounded Nature: You have ADV on Checks and Saves against being Charmed.
 - Natural Camouflage: When obscured by foliage, you have ADV on Stealth Checks
 
 **Secondary Traits**
 - Wild Runner: You are not affected by Difficult Terrain.
-- Traversal of Wilds: You have a Climbing Speed equal to your Move.
+- Traversal of Wilds: You have a Climbing Speed equal to your Speed.
 - Prey Instinct: You only need 4 hours of No Activity to complete a Long Rest and have ADV on Perception rolls to wake up from sleeping. 
 - Green Thumb: You can cast the Druidcraft cantrip.
 
@@ -48,7 +48,7 @@ Humans are a jacks of all trades but masters of none. Most humans stand between 
 
 **Core Traits**
 - Size: Medium
-- Move: 6
+- Speed: 6
 - Attribute Increase: Choose and Attribute. The chosen Attribute increases by 1 (up to the Attribute Limit).
 - Human Resolve: Your Death Door Threshold value is expanded by 1. 
 - Flexibility: You gain 1 additional Skill Point during Character Creation.
@@ -65,21 +65,21 @@ Lightfoots are the smallest of the common ancestries, standing between 3' and 4'
 
 **Core Traits**
 - Size: Small
-- Move: 5
+- Speed: 5
 - Small Form: 
 	- You have ADV on saves against traps. 
 	- When you use a weapon with the loading property, the AP required is increased by 1. 
 	- Your Speed is reduced by 1 when wielding a Heavy shield.
 	- A day's ration (as described in the rule) instead lasts 2 days for you and you require less water to survive. 
 - Elusive: When you take the Disengage Action, you instead gain the benefit of the Full Disengage Action.
-- Fleet of Foot: You have ADV on Initiative rolls. The second time you take the Move Action in a round of combat, your Move value is not halved.
+- Fleet of Foot: You have ADV on Initiative rolls. The second time you take the Move Action in a round of combat, your Speed is not halved.
 
 **Secondary Traits**
 - Light Body: You take 1 less falling damage.
 - Fight-or-Fight: Once per day, you can end the Intimated or Frightened Condition on yourself for free at anytime. 
 - Deft Form: Your Proficiency Level Cap for Sleight-of-Hand increase by 1. A skill can only benefit from one increase to its Proficiency Level Cap.
-- Natural Climber: You gain a Climb Speed equal to your Move.
-- Scurry: When an Attack of Opportunity misses you, you can Move 1 more space without provoking any Attacks of Opportunity.
+- Natural Climber: You gain a Climb Speed equal to your Speed.
+- Scurry: When an Attack of Opportunity misses you, you can move 1 more space without provoking any Attacks of Opportunity.
 
 
 ### Orc
@@ -87,13 +87,13 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 
 **Core Traits**
 - Size: Medium
-- Move: 6
+- Speed: 6
 - Defying Endurance: Once per day, the first time you would be reduced to Death's Door, you are instead reduced to 1 HP.
 - Tough: You HP maximum increases by 1.
 - Nomad: Choose Animal Handling or Survival, your Proficiency Level Cap with that skill is increased by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
 
 **Secondary Traits**
-- Runner: Increase your Move by 1.
+- Runner: Increase your Speed by 1.
 - Brutal Strikes: You deal +1 damage when you score a Brutal or Critical Hit with a Melee Weapon or Unarmed Strikes.
 - Persistent Traveler: You have ADV on saves against Exhaustion.
 - Born Rider: You have ADV on saves and checks to stay on your mount. 
@@ -108,7 +108,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 
 **Core Traits**
 - Size: Medium or Small
-- Move: 6
+- Speed: 6
 - Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as the element of your Draconic Origin. 
 	- You gain a Resistance (x) for the element of your Draconic Bonus where X is equal to your Combat Proficiency.
 	- Once per Combat encounter, you can imbue an Attack with the element of your Draconic Origin. The additional damage of this attack is equal to your Combat Proficiency
@@ -117,7 +117,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 **Secondary Traits**
 - Draconic Arm: Your Unarmed Strike increases to 1. Additionally you can choose between Bludgeoning or Slashing damage on each attack.
 - Draconic Visage: Choose between the Intimidation or Threaten skill. Your Proficiency Level Cap for that skill is increased by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
-- Draconic Legs: Increase your Move by 1.
+- Draconic Legs: Increase your Speed by 1.
 - Thick-Skinned: Your AC increases by 1 while you're not wearing Heavy Armor.
 - Prehensile Tail: You can hold objects with your tail, but you cannot use it attack with a weapon or magic item. 
 
@@ -129,7 +129,7 @@ Because of the varied nature of the Hells and its denizens, Hellkin are the most
 
 **Core Traits**
 - Size: Small or Medium
-- Move: 6
+- Speed: 6
 - Mana Infused: You gain 1 additional MP.
 - Darkvision: You have Darkvision up to 5 Spaces.
 - Unfair Advantage: You gain 1 additional Attribute Point to spend as you wish during character creation.
@@ -147,7 +147,7 @@ Physically, the Jotunnheir stand between 6 and 7 feet, with some growing as tall
 
 **Core Traits**
 - Size: Medium
-- Move: 6
+- Speed: 6
 - Powerful Build: You count as 1 size Larger for the purpose of Athletic Checks and .
 - Stone Skin: You gain 1 Damage Reduction against Physical Damage (Slashing, Piercing, and Bludgeoning damage)
 - Mighty Leap: You can use your Might instead of Dexterity to determine your Jump Distance and the damage you take from Falling.
@@ -163,4 +163,17 @@ Physically, the Jotunnheir stand between 6 and 7 feet, with some growing as tall
 The Seraphsent are said to be a gift from the gods, meant to help the common people rise up. However, many scholars argue that they emerge in a similar way as the Hellkin, that being people or bloodlines that have been exposed to a significant amount of magic (celestial in this case). 
 
 Regarding appearance, Seraphsent mostly resemble the appearance of their parents' Ancestry. However, there are several notable features. The most striking is what are referred to as their halos. These halos are flat metallic like horns that protrude from their heads and form an incomplete halo. While they look like metal, thepy are actually a very shiny type of horn. The most often appear as a silver color, but they can look like any of the precious metals. 
-Furthermore, all Seraphsent have a set of  feathered vestigial wings some where on their bodies. While they can appear anywhere, most have it along their backs, on their elbows, or on their ankles. 
+Furthermore, all Seraphsent have a set of  feathered vestigial wings some where on their bodies. While they can appear anywhere, most have it along their backs, on their elbows, or on their ankles. Other traits some Seraphsent have include, metallic-looking eyes and skin that glows slightly.
+
+**Core Trait**
+- Size: Medium or Small
+- Speed: 6
+- Radiant Resistance: You have Resistance (1/2) against Radiant Damage.
+- Finder of Truth: You add your Combat Proficiency to your Insight checks.
+- Mana Infused: You gain 1 additional MP.
+
+**Secondary Traits**
+- Blessed Healer: Whenever you cause a creature to regain HP, that creature heals 1 additional HP.
+- Celestial Clarity: You have ADV on Saves against being Blinded or Deafened.
+- Feathery Fall: You take 1 less damage from Falling. 
+- Savior: Once per Combat, if a creature within 6 spaces of you enters Death's Door, you can lose 1 HP and that creature regains 1 HP. 

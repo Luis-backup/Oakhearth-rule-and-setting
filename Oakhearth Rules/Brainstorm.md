@@ -5,6 +5,29 @@ Fighter subclass: Iron first
 Slingshot and sling. Ranged bludgeoning weapons. Slin
 
 
+Creature Types
+- Chaos-spawn
+- Beast
+- Magical-Beast
+- Celestial
+- Construct
+- Draconic
+- Elemental
+- Dreaming
+- Hellborne
+- Humanoid
+- Giant
+- Goblin (Humanoid)
+- Ooze
+- Plant
+- Undead
+
+
+Hunter Subclasses
+- Inquisitor
+
+
+
 
 
 More Weapon Properties:

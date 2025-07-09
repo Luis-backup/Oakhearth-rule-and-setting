@@ -2,7 +2,7 @@
 Oakhearth primarily uses a d20 for gameplay, but players should also have at least one of each of the following: d4, d8, d10, and d12.
 
 ## Advantage/Disadvantage (ADV/DIS): 
-Certain abilities or situations may grant you Advantage (ADV) or Disadvantage (DIS). You can have up to 3 ADV or DIS at a time. Each ADV cancels out one DIS and vice versa. For every ADV you have, roll one additional die and use the highest result. For every DIS you have, roll one additional die and use the lowest result.
+Certain abilities or situations may grant you a stack of Advantage (ADV) or Disadvantage (DIS). You can have up to 3 stacks of ADV or DIS at a time. Each ADV cancels out one DIS and vice versa. For every stack of ADV you have, roll one additional die and use the highest result. For every stack of DIS you have, roll one additional die and use the lowest result.
 
 ## Attributes:
 Oakhearth features 4 attributes that define your character:
@@ -24,7 +24,6 @@ Combat Proficiency (CP) reflects your character's skill and experience in combat
 
 Your Combat Proficiency (CP) is calculated as: CP = 1 + ½ your character's level (rounded down)
 
-
 ## Rounding Rules:
 Always round down when calculating values, with a minimum result of 1. The exception to this is if you have Resistance to a damage type, in this case you can round down to 0. 
 
@@ -37,5 +36,7 @@ When rolling a d20, add all relevant bonuses to the result. If the total exceeds
 ## Difficulty Challenge (DC): 
 The Difficulty Challenge (DC) represents how hard it is to succeed at a particular task. When attempting to overcome a challenge, your total roll (including all modifiers) must be equal to or greater than the DC to succeed.
 
+## Multiple Check Penalty
+During Combat, each time a creature makes the same Check before the end of its turn, they suffer stacking DIS on that type of Check, such as specific Flat Attribute Checks, Attack Checks, Spell Checks, and Skill Checks. This penalty only applies to Checks made during the creature’s turn, and doesn’t apply to Reactions taken on another creature’s turn (unless otherwise stated).
 ## Help Action
 When Outside of combat you can choose to help a creature succeed on a check if it makes sense. When you do so, the target of the Help Action adds a d8 to that check. Multiple creatures attempt to Help a creature if it makes since in the situation. If multiple creatures Help with the check the dice size gets smaller after each creature, starting at a d8 then d6 then d4. The GM may rule that a creature must succeed on a check before they are able to help another. For example, if a Wizard is making an Arcane Check with a DC 15, the GM may rule that any creature that wishes to help must succeed on a DC 10 Arcane roll to Help. 

@@ -3,7 +3,7 @@ Shields serve as a middle ground between Weapons and Armor. There are three type
 When equipped with a Shield you cannot use weapons with the Two-Handed property and they cannot use a Versatile weapons with two hands.
 
 ## Shield Types
-Light Shields: When wearing a Light Shield on an arm, that arm is considered as being free for the purpose of spellcasting and duel-wielding. 
+Light Shields: When wearing a Light Shield on an arm, that arm is considered as being free for the purpose of spellcasting and dual-wielding. 
 - Ex: Buckler Shield.
 
 Medium Shields: Medium Shields have no special properties.
@@ -17,12 +17,10 @@ Heavy Shields: When wearing a Tower Shield you gain the following effects: you a
 When equipped with any kind of shield, you gain access to the following Actions and Reactions.
 
 **Shield Bash**
-Action (1 AP): After a successful Melee Attack, the creature you just attacked makes Might Save. On a failed save, the target gets Stunned 1 until the end of that creature's next turn. 
+Action (1 AP): After a successful Melee Attack, the creature you just attacked makes Might Save. On a failed save, the target gains Stunned 1 until the end of that creature's next turn. 
 
 **Shield Strike**
 Action (1 AP): You can use a Shield as a weapon. It has the Fist Weapon Style and it deals 1 Bludgeoning damage.
 
 
-**Raise Shield**
-Reaction (1 AP): When you would take damage from an Attack (not a Saving Throw), the shield takes the damage instead. If the shield is reduced to 0 hit points, it is destroyed. However, if the shield is magical (or otherwise impervious to non-magical destruction), it is not destroyed. Instead, you cannot use this Reaction with that shield again until you finish a Long Rest.
 

@@ -70,7 +70,7 @@ You can spend Skill Points to gain Proficiency Levels, up to your Proficiency Le
 Combat Proficiency (CP) reflects your character's skill and experience in combat, including the effective use of weapons, armor, and other tools of war.
 
 ### Combat Proficiency Calculation
-Your Combat Proficiency (CP) is calculated as: CP = 1 + ½ your character's level (rounded down)
+Your Combat Proficiency (CP) is calculated as: CP = 1 + ½ your character's level (rounded down with a min. of 1)
 
 This represents the natural progression of your combat expertise as your character grows stronger and more experienced.
 

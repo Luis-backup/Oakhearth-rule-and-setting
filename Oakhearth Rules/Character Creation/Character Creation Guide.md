@@ -4,8 +4,8 @@ You start with an array of 3.1.0.-2 and assign each value to an Attribute of you
 
 **Prime Modifier**: Your Prime Modifier is equal to your PC's highest Attribute. 
 
-## Step 2: Save Masteries
-Choose 2 Attributes to gain Save Mastery in at Level 1. When you roll a save with this attribute, you add your Combat Proficiency to the roll (1 + ½ your character's level)
+## Step 2: Save Proficiency
+Choose 2 Attributes to gain Save Proficiency in at Level 1. When you roll a save with this attribute, you add your Combat Proficiency to the roll (1 + ½ your character's level)
 
 ## Step 3: Skills and Languages
 ### Skill Points
@@ -45,7 +45,7 @@ Assuming your Prime Modifier is 3. You have the following stats for your charact
 - Save DC: 14
 - Physical Check: Highest between Athletics or Acrobatics
 - Death Threshold: -3
-- Move Speed: 5 (can be changed by Ancestry)
+- Speed: 5 (can be changed by Ancestry)
 - Jump Distance: Equal to your Agility (min. of 1)
 - Rest Points: 1 + Might (min. of 1)
 
@@ -57,4 +57,4 @@ Choose a Class. Your class represents your training and experience. This is repr
 - Learning Cantrips, Spells, and Maneuvers
 - Additional Skill points
 
-Your Class also determines your starting equipment
+Your Class also determines your starting equipment. All PC start with 15 GP
