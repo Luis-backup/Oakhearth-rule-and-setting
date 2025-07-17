@@ -35,9 +35,6 @@ All Spells require you to spend AP to cast them, with 2 AP as the standard cost 
 
 ### Mana Points
 Each Spell has an MP cost that you must spend to cast it. There are different ways to spend additional MP on Spells, and the MP is spent when the Spell goes off successfully.
-- Gaining Mana: Your PC starts off by having 0 MP, but can gain MP in a few ways: 
-	- Spellcaster Class Feature: If you choose a Spellcaster Class then you have a maximum number of MP equal to the amount of MP in the Mana Points column of your Spellcaster Class Table. You gain MP from this table from levels 1-10.
-	- Multiclass Talent: If you take a Spellcasting Talent, you gain bonus MP equal to the amount shown on the Mana Points column of the Spellcasting Talent Table. 
 
 You Regain all of your Mana Points when you complete a Long Rest
 
