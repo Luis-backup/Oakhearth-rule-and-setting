@@ -65,6 +65,8 @@ You can spend Skill Points to gain Proficiency Levels, up to your Proficiency Le
 | 15              | Master                  |
 | 20              | Grandmaster             |
 
+### Expertise
+If your character has Expertise with a skill, they increase Proficiency Level Cap of a skill by 1. A skill can only benefit from one increase to its Proficiency Level Cap.
 
 ## Combat Proficiency
 Combat Proficiency (CP) reflects your character's skill and experience in combat, including the effective use of weapons, armor, and other tools of war.
@@ -82,7 +84,7 @@ Combat Training reflects your character’s training with certain tools relevant
 - **Armor:** Wearing armor without CT in that type reduces your AP by 2.
 
 ## Tool Proficiencies
-When you level up, you can allocate Proficiency Levels to a Tool Proficiency, allowing you to improve your skill with specific tools. Each tool is associated with an Attribute that applies to rolls involving its use.
+When you level up, you can allocate Proficiency Levels to a Tool Proficiency, allowing you to improve your skill with specific tools. Each tool is associated with an Attribute that applies to rolls involving its use. If a Tool has more than one associated skill, you choose whichever is highest.
 
 - Using a Tool Without Proficiency: If you have no PL in a tool, you only add the associated Attribute to the roll, and your capabilities with the tool may be limited.
 - Using a Tool With Proficiency: If you have PL in a tool, you make a Tool Check, which functions like a skill check: Tool Check = d20 + Attribute + PL (up to your PL limit)

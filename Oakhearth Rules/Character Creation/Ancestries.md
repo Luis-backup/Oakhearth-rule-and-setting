@@ -33,7 +33,7 @@ Elves reach adulthood at 50 and most live to be around 200. The maximum age of E
 **Core Traits**
 - Size: Medium
 - Speed: 6
-- Natural Hunter: Your Proficiency Level Cap for Survival increase by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
+- Natural Hunter: Your have Expertise in Survival.
 - Grounded Nature: You have ADV on Checks and Saves against being Charmed.
 - Natural Camouflage: When obscured by foliage, you have ADV on Stealth Checks
 
@@ -77,7 +77,7 @@ Lightfoots are the smallest of the common ancestries, standing between 3' and 4'
 **Secondary Traits**
 - Light Body: You take 1 less falling damage.
 - Fight-or-Fight: Once per day, you can end the Intimated or Frightened Condition on yourself for free at anytime. 
-- Deft Form: Your Proficiency Level Cap for Sleight-of-Hand increase by 1. A skill can only benefit from one increase to its Proficiency Level Cap.
+- Deft Form: You gain Expertise with Sleight of Hand.
 - Natural Climber: You gain a Climb Speed equal to your Speed.
 - Scurry: When an Attack of Opportunity misses you, you can move 1 more space without provoking any Attacks of Opportunity.
 
@@ -90,7 +90,7 @@ Orcs are known for their stamina and strength. Their skin tones are mostly shade
 - Speed: 6
 - Defying Endurance: Once per day, the first time you would be reduced to Death's Door, you are instead reduced to 1 HP.
 - Tough: You HP maximum increases by 1.
-- Nomad: Choose Animal Handling or Survival, your Proficiency Level Cap with that skill is increased by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
+- Nomad: Choose Animal Handling or Survival, you gain Expertise with that skill.
 
 **Secondary Traits**
 - Runner: Increase your Speed by 1.
@@ -116,7 +116,7 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 
 **Secondary Traits**
 - Draconic Arm: Your Unarmed Strike increases to 1. Additionally you can choose between Bludgeoning or Slashing damage on each attack.
-- Draconic Visage: Choose between the Intimidation or Threaten skill. Your Proficiency Level Cap for that skill is increased by 1. A skill can only benefit from one increase to its Proficiency Level Cap. 
+- Draconic Visage: Choose between the Intimidation or Threaten skill. You gain Expertise with that skill.
 - Draconic Legs: Increase your Speed by 1.
 - Thick-Skinned: Your AC increases by 1 while you're not wearing Heavy Armor.
 - Prehensile Tail: You can hold objects with your tail, but you cannot use it attack with a weapon or magic item. 

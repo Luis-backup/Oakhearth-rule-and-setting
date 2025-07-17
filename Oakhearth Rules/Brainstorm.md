@@ -1,14 +1,18 @@
 
+
+
 Fighter subclass: Iron first
 - use stamina to stun
 
 Slingshot and sling. Ranged bludgeoning weapons. Slin
 
+Add expertise rule
 
 Creature Types
 - Chaos-spawn
 - Beast
 - Magical-Beast
+- Beastmen
 - Celestial
 - Construct
 - Draconic

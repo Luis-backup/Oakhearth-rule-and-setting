@@ -30,3 +30,8 @@ You learn 1 additional Technique OR Maneuver
 You gain the following benefits:
 - Your Maximum Mana Points increases by 2.
 - You learn 2 additional Spells from the Spell List that you have access to.
+
+
+**Additional Expertise**
+*General Feat, can be taken more than once*
+You gain Expertise with 1 skill of your choice. 

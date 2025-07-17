@@ -33,8 +33,8 @@ You regain 1 SP when you:
 When you have ADV on an Attack, you can spend 1 SP to force the target to make a Physical Save against your Save DC. On a failure, the target suffers 1 of the following effects until the start of your next turn: Exposed, Hindered, Slowed 2. A target can't be affected by the same option more than once at a time.
 
 *Roguish Finesse*
-- Cunning Action: You gain movement equal to half your Speed when you take the Disengage or Hide Actions. 
-- Skill Expertise: Your Skill Mastery Limit increases by 1, up to Grandmaster (+10). A Skill can only benefit from one increase to its Mastery limit. 
+- Cunning Action: You can move up to half your Speed when you take the Disengage or Hide Actions. 
+- Skill Expertise: You gain Expertise in one Skill of your choice
 - Multi-Skilled: You gain 1 Skill Point
 
 
@@ -59,7 +59,7 @@ When you are forced to make a Physical Save, you can move up to half your Speed 
 *Improved Debilitating Strike*
 When you make an successfully land and Attack with your Debilitating Strike, you deal an additional point of damage.  
 
-## Martial Role
+## Roguish Archetype
 ### Assassin
 **Level 3**
 *Unseen Ambusher*
@@ -71,17 +71,21 @@ Your Cheap Shot deals +1 damage for each additional Condition on the target. Mul
 
 ### Thief
 **Level 3**
-*Fighting Spirit*
-- Adrenaline Boost: When you use your Second Wind, you gain +5 to Attack Checks you make until the end of your turn.
-- Cut Through: Whenever you land a Heavy Hit with a weapon Attack, you ignore the targets Physical damage Resistances (unless the target is Immune to the damage.)
-- Unyielding Spirit: While Bloodied, you gain 1 Temp HP at the start of each of your turns. 
+*Skilled Hands*
+- You gain Expertise with Sleight of Hand. If you already have Expertise with this skill, you instead gain 1 Skill Point.
+- You add your Combat Proficiency to your Sleight of Hand checks.
+- When using Thieves' Tools, you can make the check with your Sleight of Hand bonus instead. 
+
+*Swift Pilferer*
+-  When you hit a creature with an Attack, you can spend 1 SP to attempt to steal an object they are holding or wearing. The target must make a Physical Save against your Save DC. On a failure, you snatch the item and stow it away or drop it at your feet. Magically held or secured items (such as armor, shields or locked weapons) are unaffected.
+- When you successfully steal something from a creature or make a Sleight of Hand check, you can move up to half your Speed. 
 
 ### Swashbuckler 
 **Level 3**
-*Stalwart Protector*
-- Steadfast Defender: You can use your Deflect Tactic against any Attack that targets a creature within your Melee Range.
-- Defensive Bash: When you use a Defensive Maneuver as a Reaction to an Attack from a creature within 1 Space of you, the attacker must make a Physical Save against your Attack Check. On a failure, the targets is pushed 1 Space from you. 
-- Holdfast: You have ADV on checks or Saves to move you against your will. 
+*Renegade Duelist*
+- Flourishes: Your Cunning Action now also includes the Disarm and Dodge Actions.
+- Taunting Shot: Once on each of your turns when you make an Attack against a creature with a Condition, you can forgo your Cheap Shot damage to force the target to make a Charisma Save. On a failure, the target is Taunted until the end of your next turn.
+- Riposte: When a creature within your Melee Range misses you with an Attack, it provokes an Opportunity Attack from you.
 
-*Vigilant Watcher*
-If you have take a Short Rest, you have ADV on the save against Exhaustion for that day. 
+*Tall Tales*
+You know how to play to a crowd. You can spend up to 5 minutes telling a story to a crowd of creatures (that are not immediately hostile to you) and keep their rapt attention the entire time. During this story, creatures within the crowd have DIS on Perception Checks.
