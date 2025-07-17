@@ -10,6 +10,10 @@ It assumed that adventures are competent enough to plan ahead for their travels.
 
 Each Pack contains specific types of items. Every Pack starts with 5 charges. Whenever a player wants to retrieve an item from a Pack, they expend 1 charge. At that point, the item associated with that charge is defined and known (Schrödinger's cat). If the item is particularly large or expensive, the GM may rule that it costs more than 1 charge to define. To regain spent charges, the player must pay 1/5th of the Pack’s total cost per charge, and must be in a location where such items could reasonably be purchased.
 
+If you are carrying a Pack, it assumed that you have space to store additional relevant resources if you come across them. 
+
+For example: If you have an Scholar's Pack, if you scavenge for additional herbs, you can store them in your Scholar's Pack. 
+
 ### Generic Items
 For the purpose of simplicity and time. For the rules and list of miscellaneous items default to the rules and costs of Dungeons & Dragons 5e
 
@@ -23,4 +27,3 @@ You cannot use a this item while in combat or any time where the characters are 
 The Healer's Kit has 5 charges. You can expend 1 charge at a time. When you expend a charge, make a DC10 Medicine check. Success: Target creature regains 1 HP. Success (each 5): The creature regains +1 HP.
 
 You cannot regain more HP than equal to half of your max HP per 24 hour period. 
-
