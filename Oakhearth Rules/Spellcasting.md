@@ -121,7 +121,6 @@ This school of magic focuses in the manipulation of the four elements: Earth, Wa
 ### Divination
 Divination is the school of enhanced perception, allowing the user to peer into the past, present, and future. This school is largely utilitarian, allowing the user to identify objects, detect magic, and read the intentions of other creatures. The most infamous aspect of this school is perceiving the future. While incredibly useful, the future is fickle and ever in flux, causing many predictions to be incorrect which has led many to see future-focused practitioners as conmen. However, the most powerful Divination users learn to navigate their visions without becoming slaves to them.
  
-
 ### Life/Death
 This is the school of manipulating the health of a creature. At the its most basic, those who focus on the Life aspect of this school learn to heal even the most grievous of wounds, while those who focus on the Death aspect can learn to kill with a single touch. However, this is only the surface level aspects. This school can even bring people back from dead, or failing that imbue corpses with a false life. 
 
