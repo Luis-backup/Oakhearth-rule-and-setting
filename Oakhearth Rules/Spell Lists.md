@@ -20,6 +20,8 @@ Spell Lists: Arcane, Primal
 **Minor Flame Blade**
 (Cantrip)
 Cost: 1 AP, Range: Self, Duration: Instant, Components: V,P
+*Description*
+- You imbue a Melee Weapon you're wielding with flames. Until the end of your next turn, the next Attack Check that hits with this
 
 
 ### Illusion
