@@ -74,7 +74,7 @@ Saves occur when a PC reacts against an effect being forced upon them.
 ## Attribute Saves
 Most Saves are associated with a specific Attribute:
 - Might Saves: Resist effects that push you away, knock you down, or crush you. 
-- Agility Saves: Resist effects that cause you to lose your balance or that can be avoided by successfully dodging out of the way. 
+- Dexterity Saves: Resist effects that cause you to lose your balance or that can be avoided by successfully dodging out of the way. 
 - Charisma Saves: Resist effects that attempt to dominate your mind or alter your emotions. 
 - Intelligence Saves: Resist effects that attempt to read your thoughts, alter your memories, confuse you, or use illusions to deceive your senses.
 

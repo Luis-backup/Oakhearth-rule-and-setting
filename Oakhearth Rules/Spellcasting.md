@@ -8,16 +8,16 @@ Wizards can learn additional Spells beyond their Spells Known limit by using the
 
 
 
-### Spell Lists
-There are 3 Spell Lists: Arcane, Divine, and Primal. A Spell List represents the domains of magic accessible to a Spellcaster using a certain source of magic.
+### Spell Origin
+There are 3 Spell Origins: Arcane, Divine, and Primal. A Spell Origin is largely a flavor feature, the explains the method and source of your spellcasting.
 
 **Arcane**
-Arcane magic draws power from unrefined, raw, chaotic magical sources. This type of magic is used by mortal beings, overs a wide variety of unique Spells, and can be cast using incantations, rituals, runes, and other forms of organization that transforms raw magic into structured forms. Wizards,
+Arcane magic is the refinement of the raw mana of the world. It is based on knowledge of Magic Sigils and thus can be learned without a naturally strong connection to mana. This has led it to be considered more reliable than the other Spell Origins.
 
-**Divine**
-Divine magic draws power from divine beings, such as deities (greater and lesser gods), their followers (angels, archons, etc.), or the manifestations of abstract universal concepts (order, love, peace, war, etc.).
+**Faith**
+Divine magic draws power from divine beings, such as deities their followers, or the manifestations of abstract universal concepts.
 
-**Primal**
+**Primordial**
 Primal magic draws power from the physical embodiment of the universe (the land, air, rivers, and fires) and the natural creatures that abide within it (plants, animals, and nature spirits). 
 
 

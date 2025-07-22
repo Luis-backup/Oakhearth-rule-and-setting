@@ -54,7 +54,7 @@ You gain access to 1 Feat of your choice
 
 **Level 5**
 *Uncanny Dodge*
-When you are forced to make a Physical Save, you can move up to half your Speed without provoking an Attack of Opportunity.
+When you are forced to make a Physical Save or Dexterity Save, you can move up to half your Speed without provoking an Attack of Opportunity.
 
 *Improved Debilitating Strike*
 When you make an successfully land and Attack with your Debilitating Strike, you deal an additional point of damage.  
