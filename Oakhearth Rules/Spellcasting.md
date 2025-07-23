@@ -8,19 +8,6 @@ Wizards can learn additional Spells beyond their Spells Known limit by using the
 
 
 
-### Spell Origin
-There are 3 Spell Origins: Arcane, Divine, and Primal. A Spell Origin is largely a flavor feature, the explains the method and source of your spellcasting.
-
-**Arcane**
-Arcane magic is the refinement of the raw mana of the world. It is based on knowledge of Magic Sigils and thus can be learned without a naturally strong connection to mana. This has led it to be considered more reliable than the other Spell Origins.
-
-**Faith**
-Divine magic draws power from divine beings, such as deities their followers, or the manifestations of abstract universal concepts.
-
-**Primordial**
-Primal magic draws power from the physical embodiment of the universe (the land, air, rivers, and fires) and the natural creatures that abide within it (plants, animals, and nature spirits). 
-
-
 ## Spell Components
 The three spell components are Verbal, Physical, Material. Most spells use all three, but not all of them. If you lack any of the Spell Components, you cannot cast the spell, and no Mana is spent.
 - Verbal: Requires you to be able to speak clearly at a normal speaking volume.
