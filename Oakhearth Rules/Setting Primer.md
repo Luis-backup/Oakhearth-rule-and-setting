@@ -23,9 +23,8 @@ Mondra: the mother and goddess of the moon
 ### Definitions
 Mana is effectively the fuel for Magic, and Spells are a structured form of Magic.
 
-Mana is in everything as it is a fundamental aspect of the universe. 
+Mana is in everything as it is a fundamental aspect of the universe. Mana is the product of change: the cycle of life and death, the burning of a branch, the freezing of water, the breathing of a child, the mourning of a lost love, etc.. The greater the change, the greater the mana. For this reason, areas with large amounts of living things that change and can change things tend to have higher concentrations of magic such as major cities and large forests. Areas with less Mana tend be deserts and mountain tops, but this does not usually affect a Magician's spellcasting ability.
 
-### Magic Circles
 
 ### Spell Origin
 There are 3 Spell Origins: Arcane, Divine, and Primal. A Spell Origin is largely a flavor feature, the explains the method and source of your spellcasting. The Wizard class must choose the Arcane spell origin. The other spellcasting classes can flavor their magic with any Spell Origin.
@@ -38,6 +37,9 @@ Divine magic draws power from divine beings, such as deities their followers, or
 
 **Primordial**
 Primal magic draws power from the physical embodiment of the universe (the land, air, rivers, and fires) and the natural creatures that abide within it (plants, animals, and nature spirits). 
+
+### Magic Sigils
+
 
 ## Misc.
 ### The Dreaming
