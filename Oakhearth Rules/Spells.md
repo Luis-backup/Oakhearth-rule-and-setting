@@ -18,7 +18,7 @@ Classes: Wizard, Sorcerer, Spellblade
 - Burning: (1 MP) The target makes a Physical Save against your DC. On a failure, the target begins Burning. 
 
 **Brilliant Flames**
-Cost: 2 AP + 1 MP, Range: Self, Duration: Instant, Components: V, P
+Cost: 2 AP + 1 MP, Range: Self, Duration: Instant, Components: V, P, M (a source of fire within range or a sparker )
 Classes: Wizard, Sorcerer, Spellblade
 *Description*
 - A brilliant flame manifests around you. Choose a type of area: Line, Cone, or Sphere. You are the Spell's Point of Origin:
@@ -32,7 +32,7 @@ Classes: Wizard, Sorcerer, Spellblade
 
 **Dancing Flames**
 (Cantrip)
-Cost: 1 AP, Range: 20 Spaces, Duration: 1 minute (concentration), Components: V,P
+Cost: 1 AP, Range: 20 Spaces, Duration: 1 minute (concentration), Components: V,P, M (a source of fire within range or a sparker )
 Classes: Wizard, Sorcerer
 *Description*
 - You make a DC 10 Spell Check. On a success, you create up to 3 torch-sized Flames within range, making them appears a torches, lanterns, or glowing orbs that hover in the air for the spell's duration. For each degree of success, you create 1 additional Flame. On a failure, you only create 2 Flames.
@@ -42,7 +42,7 @@ Classes: Wizard, Sorcerer
 - Detonate: Spend 2 AP and 1 MP to detonate the Flames. Make a single Spell Check against the AC of each creature sharing a Space with a Flame. On a hit, each Flame in that Space deals 1 Fire damage to the target. This enhancement does not benefit from Heavy, Brutal, or Critical Hits.
 
 **Minor Flame Blade**
-Cost: 1 AP + 1 MP, Range: Self, Duration: Instant, Components: V,P
+Cost: 1 AP + 1 MP, Range: Self, Duration: Instant, Components: V,P, M (a source of fire within range or a sparker )
 Classes: Wizard, Sorcerer, Spellblade
 *Description*
 - You imbue a Melee Weapon you're wielding with flames. Until the end of your next turn, the next Attack Check that hits with this weapon deals an additional 1 Fire damage to your target or a creature within 1 Space of the target. 
