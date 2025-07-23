@@ -8,7 +8,7 @@
 
 **Fire Bolt**
 (Cantrip)
-Cost: 1 AP, Range: 10 Spaces, Duration: Instant, Components: V,P, M (a source of fire within range or a lighter/sparker )
+Cost: 1 AP, Range: 10 Spaces, Duration: Instant, Components: V,P, M (a source of fire within range or a sparker )
 Classes: Wizard, Sorcerer, Spellblade
 *Description:* 
 - Spell Attack: You can make a Spell Attack check against a target within range. On a hit, the target takes 2 Fire damage.
