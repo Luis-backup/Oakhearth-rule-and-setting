@@ -7,7 +7,6 @@ Spellcaster Classes know a number of Spells as shown in the Spells Known column 
 Wizards can learn additional Spells beyond their Spells Known limit by using their Spellbook Feature. Spells they learn using their Spellbook feature don't count against the number of Spells Known. 
 
 
-
 ## Spell Components
 The three spell components are Verbal, Physical, Material. Most spells use all three, but not all of them. If you lack any of the Spell Components, you cannot cast the spell, and no Mana is spent.
 - Verbal: Requires you to be able to speak clearly at a normal speaking volume.
@@ -38,7 +37,9 @@ By performing a 10 minute ritual immediately before casting a Spell with the Rit
 Spell Enhancements allow a Spellcaster to increase the potency of their Spells by spending additional MP on the Spell (or AP for Cantrips). Spell Enhancements are specific to each Spell and are included in a Spell’s description. Many Spell Enhancements increase a Spell’s damage (if applicable), its duration, its range, its number of targets, or its Area of Effect (if applicable).
 
 **Performing a Spell Enhancement**:
-When you cast a Spell, you can spend additional AP or MP (stated in the Spell’s description) to perform a Spell Enhancement with your Spell. If the Spell requires a Spell Check, you must choose to do so before you make the Check. You can perform the same Spell Enhancement multiple times per Spell, unless it’s stated otherwise.
+When you cast a Spell, you can spend additional AP or MP (stated in the Spell’s description) to perform a Spell Enhancement with your Spell. If the Spell requires a Spell Check, you must choose to do so before you make the Check. 
+
+You can perform the same Spell Enhancement multiple times per Spell, unless it’s stated otherwise.
 
 ## Mana Spend Limit
 You can spend a maximum number of Mana Points to cast a Spell equal to your Combat Proficiency. This limitation includes MP spent on Spell Enhancements and other Features that require MP. This is called your Mana Spend Limit.

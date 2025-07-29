@@ -9,7 +9,7 @@
 **Fire Bolt**
 (Cantrip)
 Cost: 1 AP, Range: 10 Spaces, Duration: Instant, Components: V,P, M (a source of fire within range or a sparker )
-Classes: Wizard, Sorcerer, Spellblade
+Classes: Wizard, Sorcerer, Spellblade, Pactbound
 *Description:* 
 - Spell Attack: You can make a Spell Attack check against a target within range. On a hit, the target takes 2 Fire damage.
 *Enhancements:*
@@ -18,7 +18,7 @@ Classes: Wizard, Sorcerer, Spellblade
 - Burning: (1 MP) The target makes a Physical Save against your DC. On a failure, the target begins Burning. 
 
 **Brilliant Flames**
-Cost: 2 AP + 1 MP, Range: Self, Duration: Instant, Components: V, P, M (a source of fire within range or a sparker )
+Cost: 2 AP + 1 MP, Range: Self, Duration: Instant, Components: V, P, M (a source of fire within 6 Spaces or a sparker )
 Classes: Wizard, Sorcerer, Spellblade
 *Description*
 - A brilliant flame manifests around you. Choose a type of area: Line, Cone, or Sphere. You are the Spell's Point of Origin:
@@ -40,6 +40,27 @@ Classes: Wizard, Sorcerer
 - You can spend 1 AP to move the Flames up to 10 spaces to a new space within range. A Flame must be within 5 spaces of another Flame created by the Spell and 20 spaces from you, otherwise it blinks out of existence.
 *Enhancements*
 - Detonate: Spend 2 AP and 1 MP to detonate the Flames. Make a single Spell Check against the AC of each creature sharing a Space with a Flame. On a hit, each Flame in that Space deals 1 Fire damage to the target. This enhancement does not benefit from Heavy, Brutal, or Critical Hits.
+
+**Fire Shield**
+Cost: 2 AP + 1 MP, Range: Self, Duration: 1 Hour, Components: M,V, P (a source of fire within 6 Spaces or a sparker)
+Classes: Druid, Pactbound, Spellblade
+*Description*
+- A protective magical force surrounds you, manifesting as spectral flames that cover you and your gear. You emit Bright Light in a 2 Space Radius.
+- Make a DC 15 Spell Check. On a success, you gain 3 Temp HP. For each degree of success, you gain 1 additional Temp HP. On a Failure, you only gain 2 Temp HP. 
+- If a creature hits you with a Melee Attack while you have this Temp HP, the creatures takes 1 Fire damage for each Temp HP it consumed with its Attack. The Spell ends once the Temp HP is consumed.
+*Enhancements*
+- Fire Protection: (3 MP) You gain Fire Resistance (Half) and 10 more Temp HP.
+- Investiture of Fire: (1 AP + 5 MP) You gain Fire Resistance (Immune) and 15 more Temp HP. Additionally, while you have this Temp HP, you can spend 2 AP to shoot out flames in a 3 Space Cone. Make a single Spell Check against the AC of all creatures in the Cone. Each creature hit takes 5 Fire damage. 
+
+
+**Fog Cloud**
+Cost: 2 AP + 1MP, Range: 10 Spaces, Duration: 1 hour (concentration), Components: V, M (a source of water within range. ~ bottle of water)
+Classes: Druid, Wizard, Sorcerer
+*Description*
+- Make a DC 10 Spell Check. On a success, you create a sphere of fog with up to a 4 Space radius, centered on a point within range. For each degree of success, you can increase the Radius by 1 Space. On a Failure, the max Radius is reduced by 1.
+- The sphere spreads around corners and it's area is Fully Concealed. Creatures within 1 Space of each other can see each other normally. The fog lasts for the duration or until a wind of moderate or greater speed disperses it. 
+*Enhancements*
+- Area of Effect: (1 MP) The radius of the Spell's effect increases by 3 Spaces.
 
 **Minor Flame Blade**
 Cost: 1 AP + 1 MP, Range: Self, Duration: Instant, Components: V,P, M (a source of fire within range or a sparker )
