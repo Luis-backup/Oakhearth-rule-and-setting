@@ -156,7 +156,7 @@ Physically, the Jotunnheir stand between 6 and 7 feet, with some growing as tall
 - Dense: You have ADV on any checks or saves to avoid being forcibly moved.
 - Unstoppable: You have ADV on Saves against being Slowed or Stunned.
 - Stamina Increase: Your SP maximum increases by 1.
-- Rock Thrower: When you throw a rock as an attack, you add your Combat Proficiency to the attack roll. The rock as the following properties: 1B, Impact, Thrown (4/8) .
+- Rock Thrower: When you throw a rock as an attack, you add your Combat Proficiency to the attack roll. The rock has the following properties: 1B, Impact, Thrown (4/8) .
 
 
 ### Seraphsent
@@ -176,4 +176,4 @@ Furthermore, all Seraphsent have a set of  feathered vestigial wings some where 
 - Blessed Healer: Whenever you cause a creature to regain HP, that creature heals 1 additional HP.
 - Celestial Clarity: You have ADV on Saves against being Blinded or Deafened.
 - Feathery Fall: You take 1 less damage from Falling. 
-- Savior: Once per Combat, if a creature within 6 spaces of you enters Death's Door, you can lose 1 HP and that creature regains 1 HP. 
+- Savior: Once per Short Rest, if a creature within 6 spaces of you enters Death's Door, you can choose to lose 1 HP and have that creature regain 1 HP
