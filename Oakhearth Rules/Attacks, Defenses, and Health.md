@@ -54,9 +54,8 @@ On an Attack Check where you roll a natural 20:
 When a creature makes an Attack Check or Spell Check to attempt to deal damage to a target, the creature’s Check is compared against the target’s Defense to determine if the Attack hits the target.
 
 ### Armor Class (AC)
-Armor Class represents the difficulty of physically hitting or touching a creature 
-
-#### Physical Defense Calculation
+Armor Class represents the difficulty of harming another creature
+#### AC Calculation
 - 8 + Combat Proficiency + Agility + Armor Bonus + Shield Bonus
 
 
