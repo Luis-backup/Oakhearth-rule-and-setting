@@ -1,6 +1,11 @@
 ## Spells by School
 
 ### Conjuration
+**Grease**
+Cost: 2 AP + 1 MP, Range 10 Spaces, Duration: 1 minute, Materials: V, P, M (1oz of oil of fat)
+Classes: Wizard, Bard, Druid
+*Description*
+- Make a DC 10 Spell Check.
 
 ### Divination
 
@@ -35,7 +40,7 @@ Classes: Wizard, Sorcerer, Spellblade
 Cost: 1 AP, Range: 20 Spaces, Duration: 1 minute (concentration), Components: V,P, M (a source of fire within range or a sparker )
 Classes: Wizard, Sorcerer
 *Description*
-- You make a DC 10 Spell Check. On a success, you create up to 3 torch-sized Flames within range, making them appears a torches, lanterns, or glowing orbs that hover in the air for the spell's duration. For each degree of success, you create 1 additional Flame. On a failure, you only create 2 Flames.
+- Make a DC 10 Spell Check. On a success, you create up to 3 torch-sized Flames within range, making them appears a torches, lanterns, or glowing orbs that hover in the air for the spell's duration. For each degree of success, you create 1 additional Flame. On a failure, you only create 2 Flames.
 - You can also combine 4 Flames into 1 glowing, vaguely humanoid, form of Medium size. Whichever form you choose, each Flame sheds Bright Light in a 2 Space radius.
 - You can spend 1 AP to move the Flames up to 10 spaces to a new space within range. A Flame must be within 5 spaces of another Flame created by the Spell and 20 spaces from you, otherwise it blinks out of existence.
 *Enhancements*
