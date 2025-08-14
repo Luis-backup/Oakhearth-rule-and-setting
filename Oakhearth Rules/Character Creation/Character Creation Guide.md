@@ -4,6 +4,18 @@ You start with an array of 3.1.0.-2 and assign each value to an Attribute of you
 
 **Prime Modifier**: Your Prime Modifier is equal to your PC's highest Attribute. 
 
+### Attribute Limit
+You can increase your Attributes as you gain levels, however you can’t increase an Attribute past the Attribute Limit. The Attribute Limit increases at certain levels as shown in the table below. You can increase an Attribute at the same level that your Attribute Limit increases
+
+| PC Level | Attribute Limit |
+| -------- | --------------- |
+| 1        | 3               |
+| 5        | 4               |
+| 10       | 5               |
+| 15       | 6               |
+| 20       | 7               |
+
+
 ## Step 2: Save Proficiency
 Choose 2 Attributes to gain Save Proficiency in at Level 1. When you roll a save with this attribute, you add your Combat Proficiency to the roll (1 + ½ your character's level)
 
