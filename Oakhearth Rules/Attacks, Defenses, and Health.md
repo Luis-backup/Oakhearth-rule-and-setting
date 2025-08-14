@@ -68,14 +68,11 @@ Damage Reduction is most often given by armor. It reduces the damage of an Attac
 ### Resistance
 
 - Resistance (Immune): Reduce the damage taken to 0.
-
 - Resistance (Half):Damage taken of the specified type is halved (rounded up).
-
 - Resistance (X): Reduce damage taken by X from the given damage type each time the creature takes damage.  
 
 ### Vulnerability
 - Vulnerability (Double): Increase the damage taken by 2 times (double damage).  
-
 - Vulnerability (X): Increase damage taken by X each time the creature takes damage of that type. 
 
 ## Health Points (HP)
