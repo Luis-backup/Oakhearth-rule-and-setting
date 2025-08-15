@@ -101,7 +101,7 @@ Classes: Wizard, Sorcerer, Spellblade
 
 ### Illusion
 
-### Life/Death
+### Anima
 
 ### Protection
 
