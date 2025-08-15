@@ -35,7 +35,7 @@ When attempting an action with a chance of failure, roll the relevant skill. Eac
 - Threaten: Represents your ability to coerce others through intimidating or threatening language.
 - Performance: Represents your ability to captivate an audience through entertainment, such as music, storytelling, or other artistic displays.
 
-### Special
+### Prime
 - Perception: Represents your awareness and ability to sense the world around you. For Perception checks, use your Combat Proficiency in the place of an Attribute.
 
 ## Overlapping Skills
