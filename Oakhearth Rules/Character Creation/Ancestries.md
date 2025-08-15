@@ -110,8 +110,8 @@ In addition to the scales, some Dragonborne have more draconic limbs such as str
 - Size: Medium or Small
 - Speed: 6
 - Draconic Origin: Choose Fire, Water (Cold), or Air (Lightning) as the element of your Draconic Origin. 
-	- You gain a Resistance (x) for the element of your Draconic Origin where X is equal to your Combat Proficiency.
-	- Once per Combat Short Rest, you can imbue an Attack with the element of your Draconic Origin. The additional damage of this attack is equal to your Combat Proficiency
+	- You gain a Resistance (x) for the element of your Draconic Bonus where X is equal to your Combat Proficiency.
+	- Once per Combat encounter, you can imbue an Attack with the element of your Draconic Origin. The additional damage of this attack is equal to your Combat Proficiency
 - Darkvision: You have Darkvision up to 10 Spaces
 
 **Secondary Traits**
