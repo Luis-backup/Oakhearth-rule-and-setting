@@ -48,7 +48,7 @@ Your experience with specific Terrains has led you to have some useful skills. C
 - Tundra: You gain Cold Resistance (X) where X is your Combat Proficiency and have ADV on Saves against Exhaustion from cold temperatures.
 - Urban: You gain 1 Skill Point in one of the following Skills - Persuasion, Deception, Insight, History, or Sleight of Hand. Furthermore, you ignore Difficult Terrain in Urban areas
 
-Additionally, while you're on of your Favored Terrains, you have ADV on Stealth and Survival Checks. 
+Additionally, while you're in of your Favored Terrains, you have ADV on Stealth and Survival Checks. 
 
 
 **Level 2**
