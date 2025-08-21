@@ -17,7 +17,7 @@ Creature Types
 - Construct
 - Draconic
 - Elemental
-- Dreaming
+- Dreamt
 - Hellborne
 - Humanoid
 - Giant

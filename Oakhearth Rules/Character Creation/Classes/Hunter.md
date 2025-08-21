@@ -24,9 +24,9 @@ Hunters are master survivalists and natural explorers. They mark their targets t
 
 **Level 1**
 *Hunter's Stamina*
-You regain 1 SP when:
+You regain half of your SP when:
 - You roll Perception and spot a Hidden creature
-- Once per round, when you Hit the target of your Hunter's Mark with a weapon attack.
+- Once per round, when you Hit the target of your Hunter's Mark with an attack.
 - The target of your Hunter's Mark is reduced to 0 HP or dies.
 
 *Hunter's Mark*
