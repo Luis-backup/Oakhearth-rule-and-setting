@@ -24,7 +24,7 @@ Champions are weapon and armor specialists that push themselves to the limit in 
 
 **Level 1**
 *Champion Stamina*
-You regain 1 SP when you perform 1 or more Maneuvers as part of an Action, provided you don’t spend SP as part of that Action
+You regain half of your SP when you perform 1 or more Maneuvers as part of an Action, provided you don’t spend SP as part of that Action
 
 *Fighting Style*
 Choose 1 Weapon Style. Add +1 to any Attack you make using a weapon with your chosen Weapon Style. Alternatively, you can choose to add +1 to your AC while wearing armor and/or wielding a shield.
