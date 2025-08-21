@@ -24,7 +24,7 @@ Rogues are skilled, evasive, and cunning. They impose conditions onto enemies, t
 
 **Level 1**
 *Rogue Stamina*
-You regain 1 SP when you:
+You regain half of your SP when you:
 - Hit a Flanked target.
 - Hit a target affected by a Condition.
 - Once per turn, when you gain the benefits of Cunning Action.
