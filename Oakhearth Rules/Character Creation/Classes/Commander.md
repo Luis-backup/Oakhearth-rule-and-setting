@@ -24,10 +24,10 @@ Commanders are the leaders of the battlefield, inspiring their allies and leadin
 
 **Level 1**
 *Commander's Stamina*
-You regain 1 SP each time you grant a creature a Help Die.
+You regain half of your SP each time you grant a creature a Help Die.
 
 *Inspiring Presence*
-Whenever you spend SP while in Combat, choose any creatures other than yourself within 5 Spaces that can see or hear you, and divide the HP among them
+Whenever you spend SP while in Combat, you can restore an amount of HP equal to the SP spent. Choose any creatures within 5 Spaces that can see or hear you, and divide the HP among them.
 
 *Commander's Call*
 You can spend 1 AP and 1 SP to command a willing creature that you can see within 5 Spaces that can also see or hear you. The chosen creature can immediately take 1 of the following Actions of your choice as a Reaction for free. You can only use each of the following commands once on each of your turns.
