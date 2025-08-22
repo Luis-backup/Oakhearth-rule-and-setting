@@ -30,7 +30,7 @@ You regain half of your SP when you:
 - Once per turn, when you gain the benefits of Cunning Action.
 
 *Debilitating Strike*
-When you have ADV on an Attack, you can spend 1 SP to force the target to make a Physical Save against your Save DC. On a failure, the target suffers 1 of the following effects until the start of your next turn: Exposed, Hindered, Slowed 2. A target can't be affected by the same option more than once at a time.
+When you have ADV on an Attack, you can spend 1 SP to force the target to make a Physical Save against your Save DC. On a failure, the target suffers 1 of the following effects until the start of your next turn: Exposed, Hindered, Slowed 1. A target can't be affected by the same option more than once at a time.
 
 *Roguish Finesse*
 - Cunning Action: You can move up to half your Speed when you take the Disengage or Hide Actions. 
