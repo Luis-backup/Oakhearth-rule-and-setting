@@ -43,3 +43,7 @@ Barrier Spell: basically an Orisa shield that is difficult to move through
 
 
 Shields have health based on the type and material. If you have a shield you can take the Raise Shield action. When you do this the shield takes all the damage you would have taken. This only works with Attack checks. If the shield is reduced to zero hit points, it is destroyed. For magic shields this works differently
+
+
+ - Charge: When you mae a Melee Attack on your turn, you can move up to 2 Spaces immediately before making the Attack
+ - Migty Leap: You can use your Might instead of Dexterity to determine Jump Distance and the damage you take from Falling
