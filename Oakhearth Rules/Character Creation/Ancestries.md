@@ -15,7 +15,7 @@ Dwarves reach adulthood at 30 years old and most live to be around 150, with the
 - Size: Medium
 - Speed: 5
 - Tough: You HP max increase by 1
-- Toxic Fortitude: You have have Poison Resistance (Half) and ADV on Saves against being Poisoned.
+- Toxic Fortitude: You have Poison Resistance (Half) and ADV on Saves against being Poisoned.
 - Iron Stomach: You have ADV on Saves against effects that come from consuming food or liquids. 
 
 **Secondary Traits**
