@@ -112,6 +112,8 @@ While Prone, you are subjected to the following effects:
 - You are Hindered.
 - Ranged Attacks against you are Hindered.
 - You are Exposed
+- You gain a level of Slow
+You can spend 1 AP on your turn to stand up and remove the prone condition
 #### Crawling
 - Your only movement option is to Crawl, which counts as Slowed.
 #### Standing Up
