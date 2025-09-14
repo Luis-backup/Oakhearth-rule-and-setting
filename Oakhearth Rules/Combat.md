@@ -11,7 +11,7 @@ Each player has an Initiative Bonus, calculated as follows:
 When one group of combatants outnumbers the other, the larger group activates in smaller sub-groups to maintain balance. This ensures that each side alternates turns evenly, with the larger group dividing its activations across the round as needed.
 
 ## Time in Combat
-Time in combat is measured in Rounds. Each Round is 12 seconds. Five Rounds are 1 minute. 
+Time in combat is measured in Rounds. Each Round is 6 seconds.
 
 ## Surprise
 Combat begins only when the GM instructs the players to roll for initiative. However, players and NPCs may use stealth or other tactics to gain an advantage before combat starts. If one group is caught off guard, they gain the Surprised condition and automatically fail their initiative checks.
