@@ -96,5 +96,3 @@ Reaction (Maneuver): (1 AP) You move 1 Space to a Space that’s still within th
 **Swap**  
 Maneuver: (1 AP) You switch Spaces with a willing creature within 1 Space. If this movement would provoke an Opportunity Attack against you or the target creature, any Opportunity Attacks are made against you.
 
-**Raise Shield**
-Reaction (1 AP): When you would take damage from an Attack (not a Saving Throw), the shield takes the damage instead. If the shield is reduced to 0 hit points, it is destroyed. However, if the shield is magical (or otherwise impervious to non-magical destruction), it is not destroyed. Instead, you cannot use this Reaction with that shield again until you finish a Long Rest.

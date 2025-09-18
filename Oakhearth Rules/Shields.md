@@ -22,5 +22,6 @@ Action (1 AP): After a successful Melee Attack, the creature you just attacked m
 **Shield Strike**
 Action (1 AP): You can use a Shield as a weapon. It has the Fist Weapon Style and it deals 1 Bludgeoning damage.
 
-
+**Raise Shield**
+Reaction (1 AP): When you would take damage from an Attack (not a Saving Throw), the shield takes the damage instead. If the shield is reduced to 0 hit points, it is destroyed. However, if the shield is magical (or otherwise impervious to non-magical destruction), it is not destroyed. Instead, you cannot use this Reaction with that shield again until you finish a Long Rest.
 
