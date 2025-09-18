@@ -29,7 +29,7 @@ To attack:
 A Weapon that can be used to make a Ranged Attack has a Range shown in parentheses after its Ammo, Toss, or Thrown property.
 
 **Range Tiers**
-- Normal Range (First number): Attack any target within this range normally
+- Normal Range (First number): You can attack any target within this range normally
 - Long Range (Second number): Attack with Disadvantage against targets in this extended range
   - Cannot attack beyond long range
 
