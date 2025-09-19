@@ -78,7 +78,7 @@ Damage Reduction is most often given by armor. It reduces the damage of an Attac
 Health Points represent a creature's ability to sustain damage. 
 
 ### HP at 1st Level and Onward
-A PC has a number of Health Points equal to 6 + Character Level + Might.   A PC might also gain additional HP from its Ancestry or Class.  
+A PC has a number of Health Points equal to 6 + Character Level + Might. A PC might also gain additional HP from its Ancestry or Class.  
 **Health Point Formula:**  
 - 6 + Level + Might  
 - (+ possible HP from Class Features)  
