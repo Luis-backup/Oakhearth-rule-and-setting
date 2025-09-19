@@ -38,12 +38,6 @@ Hidden:
 You are Hidden from a creature while you’re both Unseen and Unheard by it. Your location is unknown to creatures you’re Hidden from.
 
 
-## Damage Type Categories
-Damage types are organized into categories, such as Physical, Elemental, and Mystical.
-- Physical Damage:  Slashing, Piercing, and Bludgeoning damage.
-- Elemental Damage: Cold, Corrosion, Fire, Lightning, and Poison.
-- Mystical Damage: Radiant, Psychic, and Umbral.
-
 ## Managing Damage Multiples
 **Multiple Damage Types**: When dealing bonus damage on an Attack Check or Spell Check deals more than 1 type of damage, you choose which of those damage types the bonus damage increases.
 
