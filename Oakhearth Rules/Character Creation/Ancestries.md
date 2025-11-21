@@ -162,7 +162,7 @@ Physically, the Jotunnheir stand between 6 and 7 feet, with some growing as tall
 ### Seraphsent
 The Seraphsent are said to be a gift from the gods, meant to help the common people rise up. However, many scholars argue that they emerge in a similar way as the Hellkin, that being people or bloodlines that have been exposed to a significant amount of magic (celestial in this case). 
 
-Regarding appearance, Seraphsent mostly resemble the appearance of their parents' Ancestry. However, there are several notable features. The most striking is what are referred to as their halos. These halos are flat metallic like horns that protrude from their heads and form an incomplete halo. While they look like metal, thepy are actually a very shiny type of horn. The most often appear as a silver color, but they can look like any of the precious metals. 
+Regarding appearance, Seraphsent mostly resemble the appearance of their parents' Ancestry. However, there are several notable features. The most striking is what are referred to as their halos. These halos are flat metallic like horns that protrude from their heads and form an incomplete halo. While they look like metal, but they are actually a very shiny type of horn. The most often appear as a silver color, but they can look like any of the precious metals. 
 Furthermore, all Seraphsent have a set of  feathered vestigial wings some where on their bodies. While they can appear anywhere, most have it along their backs, on their elbows, or on their ankles. Other traits some Seraphsent have include, metallic-looking eyes and skin that glows slightly.
 
 **Core Trait**
