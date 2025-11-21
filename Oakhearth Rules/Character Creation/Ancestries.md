@@ -25,7 +25,7 @@ Dwarves reach adulthood at 30 years old and most live to be around 150, with the
 - Cave Diver: You have Darkvision up to 4 spaces.
 - Minor Tremorsense: You have Tremorsense up to 2 spaces. 
 
-### Elf
+### Elf (elfkin - need to rework lore)
 Elves are innately tuned to nature, and as a result most Elf communities are found in forests and other places with dense plant life. Most Elves stand between 5'5 and 5'10 in height. Physically, Elves tend to be lean with less body fat than humans, often making them appear endogenous to non-elves. However, their appearance does not negatively affect their strength. Regarding skin tones, they tend to resemble the color of trees common to the area in which an Elf is born. This often results in brown skin tones, but areas with more uniquely colored trees like Birch commonly lead to non-brown skin tones. Regarding hair, most Elves have brown hair with Dark Green and Shades of orange being less common. Elf ears are similar slightly smaller than those of humans and notably more pointed. 
 
 Elves reach adulthood at 50 and most live to be around 200. The maximum age of Elves is unknown.
