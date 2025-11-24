@@ -7,7 +7,7 @@ Many people can trace their lineage to multiple groups. Because of this, you can
 These groups of people can be found throughout the world in large groups, either in their own civilizations or in combined civilizations. To all but the most isolated people, seeing a person of any of these ancestries does not pose any questions.
 
 ### Dwarf
-Dwarves are a short and stout people. They typically stand between 4.5' and 5' tall. All Dwarves grow beards, and most Dwarf societies take pride in maintaining them regardless of gender. Dwarves skin tones are very similar to those of Humans with Dwarves living near volcanic activity being dark in skin tone and those living in poorly lit areas being notably pale. 
+Dwarves are a short and stout. They typically stand between 4.5' and 5' tall. All Dwarves grow beards, and most Dwarf societies take pride in maintaining them regardless of gender. Dwarves skin tones are very similar to those of Humans with Dwarves living near volcanic activity being darker in skin tone and those living in poorly lit areas being notably pale. 
 
 Dwarves reach adulthood at 30 years old and most live to be around 150, with the oldest known Dwarves reach 200
 
