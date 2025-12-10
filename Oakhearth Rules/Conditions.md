@@ -127,7 +127,7 @@ You can spend 1 AP on your turn to stand up and remove the prone condition
 
 ### Slowed X
 - Every 1 Space you move costs an extra 1 Space of movement for every X of Slowed
-	- Ex. Slowed 2: If your move is 30, you could move 7 spaces
+
 
 ### Stunned X
 - Your current and maximum AP is reduced by X.
