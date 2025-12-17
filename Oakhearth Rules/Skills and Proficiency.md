@@ -22,9 +22,6 @@ When attempting an action with a chance of failure, roll the relevant skill. Eac
 - Medicine: Represents your knowledge of medicinal techniques, tools, and treatments.
 - Survival: Represents your understanding of nature and your ability to hunt, track, or navigate the wilderness.
 - History: Represents your knowledge of historical events, items, places, or people.
-- Arcane: Represents your knowledge of magic, its uses, and techniques.
-- Religion: Represents your understanding of religious beliefs, customs, and traditions.
-- Occultism: Represents your knowledge of otherworldly creatures, dimensions, and phenomena.
 - Knowledge: With your GM’s permission, you can create a custom knowledge skill to specialize in a topic not covered above.
 
 ### Charisma
