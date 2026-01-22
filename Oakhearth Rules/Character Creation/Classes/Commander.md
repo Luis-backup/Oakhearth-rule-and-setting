@@ -41,7 +41,7 @@ You have ADV on Checks made to convince creatures that you are an authority figu
 *Commanding Aura*
 You’re surrounded by a 5 Space Aura. You can target any creature within your Aura to grant one of the following effects below, provided the target can see or hear you.
 - Bolster: (1 AP) You take the Help Action to aid the target with an Attack. You can also do so as a Reaction whenever a valid target makes an Attack.
-- Rally: (1 AP) You grant creatures of your choice (including yourself) Temp HP equal to your Combat Proficiency.
+- Rally: (1 AP) You grant  a creature  Temp HP equal to your Proficiency Bonus.
 
 
 **Level 3**
