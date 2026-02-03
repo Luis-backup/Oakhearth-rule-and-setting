@@ -53,14 +53,14 @@ Additionally, while you're in of your Favored Terrains, you have ADV on Stealth 
 
 **Level 2**
 *Hunter's Strike*
-You can spend 1 SP as part of a Weapon Attack to add 1 of the effects listed below. You must declare you are using this ability before you know the result of the roll. You can only use 1 of these effects per Attack. The effect only occurs on a successful Attack. If an effect forces the the target to make a Save, it does so against your Save DC.
+You can spend 1 SP as part of a Weapon Attack to add 1 of the effects listed below. You must declare you are using this ability before you know the result of the roll. You can only use 1 of these effects per Attack. The effect only occurs on a successful Attack. If an effect forces the target to make a Save, it does so against your Save DC.
 - Deep Cut: You deal an additional point of Piercing damage and the target must make a Physical Save against or start Bleeding for 1 minute.
 - Weighted Blow: You deal an additional point of Bludgeoning damage and the target must make a Physical save or fall prone.
-- Rending Blow: You deal an additional point of Slashing damage and the target must make a Physical Save or be Slowed until the end start of your next turn.  
+- Rending Blow: You deal an additional point of Slashing damage and the target must make a Physical Save or be Slowed until the end of your next turn.  
 
 
 **Level 3**
-At level three you choose your subclass, known as Leadership Style. 
+At level three you choose your subclass, known as Hunting Style. 
 
 **Level 4**
 *Additional Feat*
