@@ -80,7 +80,7 @@ Choose 1 Weapon Style. Add +1 to any Attack you make using a weapon with your ch
 Creatures of your choice can add a d4 to the first Attack they make on each of their turns against your Marked target.
 
 *Coordinated Attack*
-Once per round, when you and an ally are flanking your Prey, if you land a successful attack, the ally that is flanking with you attacks for free as a Reaction. 
+Once per round, when you and an ally are flanking your Prey, if you land a successful attack, the ally that is flanking with you attacks for a Reaction. 
 
 ### Monster Hunter
 **Level 3**
