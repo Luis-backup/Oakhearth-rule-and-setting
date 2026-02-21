@@ -26,3 +26,15 @@ The forests between the clearings and the paths are still utterly wild, great hi
 
 
 ## Religion
+This faith is the common cultural bedrock of the Woodland, predating the city-states and now interpreted differently by each faction.
+
+*   **The Black Wolf (The Guardian in Shadow):** Represents death, endings, secrets, protection, and the necessary darkness that gives contrast to light. Not evil, but solemn. Prayers are offered to the Wolf for safe passage through dark woods, for the peace of the departed, and for the strength to keep necessary secrets. Its symbol is a silhouetted wolf against a full moon.
+*   **The Silver Rabbit (The Watcher in the Rafters):** Represents the moon, cycles, reflection, intuition, and subtle change. The Rabbit is associated with diplomacy, dreams, spies, and the quiet turning of fate. Followers ask the Rabbit for guidance in negotiations, for clarity in dreams, and for patience. Its symbol is a rabbit in a crescent moon.
+*   **The Golden Eagle (The Judge in the Open Sky):** Represents the sun, truth, law, open conflict, and decisive action. The Eagle’s gaze misses nothing. It is invoked for justice in daylight courts, for courage in battle, and for clear, unambiguous truth. Its symbol is a soaring eagle with the sun as its halo.
+
+**Core Tenet:** "Nature holds all three in its heart. To deny one is to lose balance." A "balanced soul" respects all Aspects.
+
+**Faction Interpretations:**
+*   **Marquise de Cat:** Publicly venerates the Golden Eagle (order, law, productivity). 
+*   **Eyrie Dynasties:** Officially worship the Golden Eagle (martial glory, solar nobility) and the Silver Rabbit (ancestral cycles, dynastic fate). They see the Black Wolf as a peasant's superstition.
+*   **Woodland Alliance:** Their folk faith heavily emphasizes the Silver Rabbit (the underdog, subtle rebellion) and the Black Wolf (the memory of martyrs, protection of the hidden). They view the Eagle as the Aspect of oppressive authority.
