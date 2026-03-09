@@ -151,3 +151,23 @@ In-world Examples of faith being affecting the culture
 *Same sex relationships are normal, but they are very stereotypically seen as still having a more masculine and feminine part. They are also expected to have kids regardless.
 
 - Common question: which of you prefers the moon? - not sure about this one yet
+
+## The First Betrayer 
+
+It is often asked by those doubtful of the faith as to why, if Gault was all powerful, why do they not intervene more often, why allow bad to occur, why allow split themself into multiple beings.
+
+The answer is the First Betrayer.
+
+In the first age, before the giants and the dragons, there were only humans. Gault loved humans so much, he gave them free will, allowed them to make their own choices even if he knew they could be hurt because love without choice is no love at all. For eons upon eons, this worked and humanity was good.
+
+However, so greatly did they love humanity, Gault turned a blind eye to the birth of Pride and Greed within the hearts of humanity, believing they would learn to grow above them. One day, a man, whose name has been erased, did the unthinkable, his pride and greed had grown so great he believed he deserved the power of Gault. 
+
+This man built a knife from the embers of creation, and struck Gault from behind. While the knife could not harm Gault physically, the pain of betrayal broke his heart. Gault tossed the First Betrayer in the dark, turning his light away from him and damming all like him to fester in that lightless hole. During his fall, the First Betrayer's mortal form was burned away, revealing his true monstrous self. This was the birth of the Hells
+
+The First Betrayer became the first devil, a damned mortal soul, and his Pride and Greed became the first demons, sins given form. 
+
+So broken was the heart of Gault, they broke himself into Celestials, creating a new family, a new love to care for creation while he healed. 
+
+Now eons have passed, and the love and prayers to Gault of greatly healed his broken heart, but Gault has remained distant, allowing the Celestials to assist humanity in his stead. 
+
+It is said that once humanity has shown Gault that they have redeemed itself, Gault will return, bringing about paradise to the mortal world. 
