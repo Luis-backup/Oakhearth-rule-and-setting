@@ -5,6 +5,8 @@ Firstly, sourcing both sulfur and saltpeter in high quantities and of high quali
 - expensive
 - difficult to repair
 - inaccurate
+Essentially, firearms have stagnated at the matchlock.
+However, they do see more usage with cannons, where they can be pre-loaded and shoot at a large target, and if it hits it is guaranteed to do massive damage. Again however, their implementation is limited by cost
 
 
 Secondly, it has a poor reputation, the few who have experience with gun powder is actually through Goblins. Once a goblin colony grows large enough, they will start to produce Goblin Alchemist who occasionally create firearms for their clan. The weapons are crude and ugly with most breaking after a few uses. However, the limited amount of study that has been conducted has show that the gunpowder goblins produce (often referred to as Goblin Powder) tends to be more powerful than those made by people. Regardless, the association with Goblins has dissuaded many potential artisans from developing the weapons, often seeing them as a cursed or unlucky craft.
