@@ -35,8 +35,9 @@ Elves stand at a similar height to humans with most standing between 5 and 6 fee
 ### Lightfoots
 - descendant from those who learned to hide in all the small space
 
-### Humans
-- humans aren't naturally the best at anything, but they serve as a jack of all trades letting them be more flexible in times of crisis
+### Humans - Aunder
+- ändern: change in german
+- Unlike the other races of humanity, who adapted to their homes. Aunder adapted their homes to themselves, changing and moving materials in ways that the other races had never imagined. This has often led to conflict with the other races but it also allowed them to advance quickly.
 
 
 ## Uncommon Ancestries
