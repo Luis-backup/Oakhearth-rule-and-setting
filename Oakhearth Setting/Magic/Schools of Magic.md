@@ -28,4 +28,5 @@ Transmutation is the temporary changing of properties of the natural world, incl
 *Common Damage Types:*
 - Necrotic
 - Shock
+- Cold
 
