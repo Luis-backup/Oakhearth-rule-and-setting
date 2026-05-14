@@ -41,12 +41,6 @@ Additional Object Interactions: If you want to perform more than one object inte
 You make 1 Attack Check. For each additional AP you use, you gain a level of ADV.
 
 
-**Disarm (1 AP)**
-Choose a creature within your weapon’s range. Make an Attack Check, and the target contests it using either Athletics, Acrobatics, or Sleight of Hand. If your Attack Check succeeds, the target drops the object they are holding.
-
-The target gains Advantage for every additional limb they are using to hold the object. Additionally, you have Disadvantage if the target is larger than you, or Advantage if the target is smaller than you. However, you cannot target a creature that is two size categories larger or smaller than you. 
-
-
 **Grapple (1 AP)**
 If you have a free hand, you can attempt to Grapple a creature. To do this, make an Athletics check contested by the targeted creature's Physical Check. You have ADV on the check if you are larger than the target and DIS if you are smaller than the target. You cannot Target creatures that are two or more size categories larger or smaller than you. On a success, the target creature has the Grappled condition.
 
