@@ -1,4 +1,7 @@
 
+Diabetes is witch curse?
+
+
 Protectorate: A protectorate is a state that maintains its internal autonomy but cedes control over certain areas, such as foreign affairs and defense, to a more powerful state. This arrangement often arises from treaties or historical relationships. For example, Bhutan was a protectorate of British India and later had a similar relationship with independent India, wherein India managed Bhutan's foreign relations and defense
 
 The internals of the mountains in Wilhiem are largely controlled by semi-independent dwarven Holds (city-states) but they are Protectorate states to to Wilhiem. There are many Holds that are below ground, and those tend to have more old-fashioned beliefs
