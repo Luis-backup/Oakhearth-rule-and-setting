@@ -16,9 +16,10 @@ Made of common stone
 ### Marble
 Similar to stone but are interwoven with more precious material
 #### Metal
-
+Warriors
 
 #### Gem
+clerics and magicians
 
 ## Reproduction
 Giants do not reproduce sexually, instead they create a `Minera`. The material of the `Minera` is dependent on the type of giant. When two or more giants decided to create a `Minera` they gather the highest quality version of their respective type and each member creating `Minera` infuses some aspect of their own soul/self into it. They then place this into the earth, and a few moments later, a new giant emerges as a fully grown adult. 
