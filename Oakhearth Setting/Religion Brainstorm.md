@@ -9,10 +9,7 @@ In Their solitude, Gault grew lonely, and so They created Space. But Space alone
 
 However, this life, though alive, was simple and unthinking. So Gault chose to bind the spheres together, overlapping them to created the Prime Sphere. In this new convergence, Life flourished. Still, it remained stagnant, even as Time moved forward. To break the stillness, Gault created Man, the flowing  of energy and intent. With Mana, Life found purpose, beauty, and endless variety. But in gaining the power to change, Life also gained the inevitability of Death.
 
-
-
 Spirits: it's unclear what a spirit is but they are generally agreed not to be the same as a soul. It seems that spirits occur naturally and can possess or emerge from anything. Some scholars believe that Spirits are Mana given intent or emotiontion
-
 
 Oakhearth Religion
 
