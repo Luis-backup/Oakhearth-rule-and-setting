@@ -28,7 +28,7 @@ I need to develop some prey animals that reproduce fast enough
 	- giants eventually got complacent and the Humans rose built their own places and revolted
 - Modern Age: The current age
 	- roughly 1500 years in 
-
+Each of the previous ages lasted for an unknown length of time with theories ranging from only a few thousand to over a hundred thousand per Age. These Ages are built on top of each other, to a semi-literal degree with massive changes to the environment often sinking structures and then having those spaces filled in
 
 
 **Ancient Forests:**
